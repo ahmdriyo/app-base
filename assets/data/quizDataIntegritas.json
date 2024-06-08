@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Anda menemukan dompet yang tergeletak di trotoar. Saat membuka dompet tersebut, Anda menemukan uang dan kartu identitas pemilik. Apa yang akan Anda lakukan?",
+    "options": ["Mengambil uangnya dan mengembalikan dompet tanpa uang", "Mengambil uang dan dompet, lalu membuangnya", "Mengambil uangnya dan menjual dompetnya", "Mengembalikan dompet beserta isinya ke pemiliknya"],
+    "answer": "Mengembalikan dompet beserta isinya ke pemiliknya"
+  },
+  {
+    "question": "Anda melihat rekan kerja Anda melakukan pelanggaran etika di tempat kerja. Apa tindakan yang akan Anda ambil?",
+    "options": ["Mengabaikan pelanggaran tersebut", "Melaporkan kepada atasan langsung", "Menggunakan informasi tersebut untuk keuntungan pribadi", "Membicarakannya dengan rekan kerja lain tanpa melaporkannya"],
+    "answer": "Melaporkan kepada atasan langsung"
+  },
+  {
+    "question": "Anda sedang berada di sebuah toko dan kasir memberikan kembalian lebih dari jumlah yang seharusnya. Apa yang akan Anda lakukan?",
+    "options": ["Menyimpan kembalian tersebut karena kesalahan kasir", "Mengembalikan kembalian lebih kepada kasir", "Meninggalkan toko tanpa memberi tahu kasir", "Menggunakan kembalian lebih untuk belanja tambahan"],
+    "answer": "Mengembalikan kembalian lebih kepada kasir"
+  },
+  {
+    "question": "Anda memiliki akses ke informasi rahasia perusahaan. Apa yang akan Anda lakukan jika seseorang menawarkan uang kepada Anda untuk memberikan informasi tersebut kepada pesaing perusahaan?",
+    "options": ["Menerima tawaran tersebut untuk mendapatkan keuntungan pribadi", "Menolak tawaran tersebut dan melaporkannya kepada atasan", "Memanfaatkan informasi tersebut untuk keuntungan pribadi tanpa memberitahu siapa pun", "Berpikir terlebih dahulu sebelum mengambil keputusan"],
+    "answer": "Menolak tawaran tersebut dan melaporkannya kepada atasan"
+  },
+  {
+    "question": "Anda mendengar teman sekelas Anda berencana untuk mencontek pada ujian berikutnya. Apa yang akan Anda lakukan?",
+    "options": ["Ikut mencontek bersama teman tersebut", "Menyarankan teman tersebut untuk belajar dengan sungguh-sungguh", "Menghindari teman tersebut agar tidak terlibat", "Melaporkan rencana mencontek tersebut kepada dosen atau pengawas ujian"],
+    "answer": "Melaporkan rencana mencontek tersebut kepada dosen atau pengawas ujian"
+  },
+  {
+    "question": "Anda memiliki informasi bahwa bos Anda melakukan tindakan yang tidak etis terhadap karyawan lain. Apa yang akan Anda lakukan?",
+    "options": ["Menggunakan informasi tersebut untuk mendapatkan keuntungan pribadi", "Membicarakannya dengan rekan kerja lain tanpa melaporkannya", "Melaporkan kepada atasan atau departemen sumber daya manusia", "Menyimpan informasi tersebut agar dapat digunakan sebagai tekanan di masa mendatang"],
+    "answer": "Melaporkan kepada atasan atau departemen sumber daya manusia"
+  },
+  {
+    "question": "Anda melihat seseorang mengalami kecelakaan dan tidak ada yang melihatnya. Apa yang akan Anda lakukan?",
+    "options": ["Mengabaikannya dan melanjutkan kegiatan Anda", "Menyebarkan informasi tersebut di media sosial", "Menghubungi layanan darurat untuk memberikan bantuan", "Meninggalkan lokasi tanpa memberikan bantuan"],
+    "answer": "Menghubungi layanan darurat untuk memberikan bantuan"
+  },
+  {
+    "question": "Anda diberi pekerjaan untuk menyelesaikan proyek secara individu. Namun, Anda mendapati bahwa proyek tersebut terlalu sulit untuk diselesaikan sendiri. Apa yang akan Anda lakukan?",
+    "options": ["Menyerah dan tidak menyelesaikan proyek", "Meminta bantuan dari rekan kerja atau atasan", "Mengklaim bahwa Anda telah menyelesaikan proyek secara mandiri", "Menyalahkan orang lain atas kegagalan proyek"],
+    "answer": "Meminta bantuan dari rekan kerja atau atasan"
+  },
+  {
+    "question": "Anda memiliki kesempatan untuk mengambil barang yang tidak akan terlacak dan tidak ada yang akan mengetahuinya. Apa yang akan Anda lakukan?",
+    "options": ["Mengambil barang tersebut tanpa berpikir panjang", "Mengabaikan kesempatan tersebut", "Mengambil barang tersebut dan menyalahkan orang lain", "Menolak kesempatan tersebut karena melanggar prinsip integritas"],
+    "answer": "Menolak kesempatan tersebut karena melanggar prinsip integritas"
+  },
+  {
+    "question": "Anda menyadari bahwa Anda telah menerima pembayaran yang lebih dari yang seharusnya dari toko. Apa yang akan Anda lakukan?",
+    "options": ["Menggunakan uang tersebut untuk kebutuhan pribadi", "Mengembalikan uang tersebut kepada toko", "Meninggalkan toko tanpa memberi tahu siapa pun", "Mengembalikan sebagian uang dan menyimpan sisanya"],
+    "answer": "Mengembalikan uang tersebut kepada toko"
+  },
+  {
+    "question": "Apakah Anda percaya bahwa kejujuran selalu merupakan kebijakan terbaik?",
+    "options": ["Ya", "Tidak", "Kadang-kadang", "Tidak yakin"],
+    "answer": "Ya"
+  },
+  {
+    "question": "Bagaimana Anda merespon jika Anda mengetahui seseorang yang dekat dengan Anda melakukan sesuatu yang tidak jujur?",
+    "options": ["Menghadapi mereka dan membicarakan masalah tersebut", "Mengabaikan dan tidak menyentuh topik tersebut", "Melaporkan mereka kepada pihak berwenang", "Mencoba membantu mereka menutupi kesalahan"],
+    "answer": "Menghadapi mereka dan membicarakan masalah tersebut"
+  },
+  {
+    "question": "Apakah Anda merasa sulit untuk tetap jujur ​​ketika dihadapkan pada situasi yang sulit?",
+    "options": ["Ya", "Tidak", "Terkadang", "Tergantung situasinya"],
+    "answer": "Terkadang"
+  },
+  {
+    "question": "Bagaimana Anda menanggapi jika Anda mengetahui bahwa kejujuran Anda dapat menyebabkan konsekuensi yang merugikan bagi Anda sendiri?",
+    "options": ["Tetap jujur ​​meskipun ada risiko", "Berbohong untuk menghindari konsekuensi negatif", "Tergantung pada seberapa besar risikonya", "Berpikir ulang dan mempertimbangkan tindakan terbaik"],
+    "answer": "Tetap jujur ​​meskipun ada risiko"
+  },
+  {
+    "question": "Apakah Anda percaya bahwa kejujuran merupakan aspek penting dalam hubungan personal?",
+    "options": ["Ya", "Tidak", "Kadang-kadang", "Tergantung pada situasinya"],
+    "answer": "Ya"
+  },
+  {
+    "question": "Bagaimana Anda menanggapi seseorang yang meminta Anda untuk berbohong demi kepentingan mereka?",
+    "options": ["Menolak untuk berbohong dan menjelaskan pentingnya kejujuran", "Setuju untuk berbohong demi kebaikan mereka", "Berbohong jika itu tidak berbahaya", "Menghindari situasi tersebut tanpa memberikan jawaban"],
+    "answer": "Menolak untuk berbohong dan menjelaskan pentingnya kejujuran"
+  },
+  {
+    "question": "Apakah Anda merasa bahwa memiliki integritas adalah kualitas yang diperlukan dalam karier Anda?",
+    "options": ["Ya", "Tidak", "Tergantung pada jenis pekerjaan", "Saya tidak yakin"],
+    "answer": "Ya"
+  },
+  {
+    "question": "Bagaimana Anda merespon jika Anda mengetahui bahwa seseorang yang Anda hormati melakukan sesuatu yang tidak jujur?",
+    "options": ["Menghadapi mereka dan meminta penjelasan", "Mengabaikan informasi tersebut dan tidak bertindak", "Mengadukannya ke pihak lain", "Mengajukan pertanyaan tanpa menyebut nama"],
+    "answer": "Menghadapi mereka dan meminta penjelasan"
+  },
+  {
+    "question": "Apakah Anda merasa bahwa Anda memiliki integritas yang kuat dalam kehidupan sehari-hari Anda?",
+    "options": ["Ya", "Tidak", "Kadang-kadang", "Saya tidak yakin"],
+    "answer": "Ya"
+  },
+  {
+    "question": "Bagaimana Anda menanggapi jika Anda mengetahui bahwa seseorang menghargai Anda karena kejujuran dan integritas Anda?",
+    "options": ["Merasa bangga dan terpenuhi", "Tidak peduli dengan pendapat orang lain", "Menggunakan hal tersebut sebagai keuntungan pribadi", "Merasa tidak nyaman dengan perhatian tersebut"],
+    "answer": "Merasa bangga dan terpenuhi"
+  },
+  {
+    "question": "Apakah Anda merasa bahwa kejujuran adalah faktor penting dalam membangun kepercayaan dengan orang lain?",
+    "options": ["Ya", "Tidak", "Kadang-kadang", "Saya tidak tahu"],
+    "answer": "Ya"
+  },
+  {
+    "question": "Bagaimana Anda merespon jika Anda mengetahui bahwa Anda telah melakukan kesalahan dan perlu mengakuinya?",
+    "options": ["Mengakui kesalahan dan meminta maaf", "Menyembunyikan kesalahan dan berharap tidak ketahuan", "Menyalahkan orang lain untuk menghindari konsekuensi", "Melakukan tindakan untuk menutupi kesalahan"],
+    "answer": "Mengakui kesalahan dan meminta maaf"
+  },
+  {
+    "question": "Apakah Anda merasa bahwa kejujuran membantu membangun reputasi yang baik?",
+    "options": ["Ya", "Tidak", "Saya tidak peduli dengan reputasi saya", "Saya tidak yakin"],
+    "answer": "Ya"
+  },
+  {
+    "question": "Bagaimana Anda menanggapi jika Anda mengetahui bahwa teman Anda berbohong kepada Anda?",
+    "options": ["Menghadapi mereka dan membicarakan masalah tersebut", "Mengabaikan informasi tersebut dan tidak bertindak", "Merasa terpengaruh namun tidak melakukan apapun", "Membalas dengan berbohong kepada mereka"],
+    "answer": "Menghadapi mereka dan membicarakan masalah tersebut"
+  },
+  {
+    "question": "Apakah Anda merasa bahwa menjaga integritas dapat meningkatkan rasa harga diri?",
+    "options": ["Ya", "Tidak", "Tidak yakin", "Saya tidak peduli dengan rasa harga diri saya"],
+    "answer": "Ya"
+  },
+  {
+    "question": "Bagaimana Anda menanggapi jika Anda mengetahui bahwa seseorang berbohong kepada Anda untuk melindungi Anda dari sesuatu?",
+    "options": ["Menghargai niat baik mereka tetapi tetap mengharapkan kejujuran", "Tidak peduli dan tidak mempermasalahkannya", "Merasa terganggu oleh kebohongan tersebut", "Berterima kasih kepada mereka dan melupakan kejadian tersebut"],
+    "answer": "Menghargai niat baik mereka tetapi tetap mengharapkan kejujuran"
+  },
+  {
+    "question": "Apakah Anda merasa bahwa integritas adalah kualitas yang penting bagi seorang pemimpin?",
+    "options": ["Ya", "Tidak", "Kadang-kadang", "Tidak tahu"],
+    "answer": "Ya"
+  },
+  {
+    "question": "Bagaimana Anda merespon jika Anda mengetahui bahwa Anda telah diberi kepercayaan karena kejujuran Anda?",
+    "options": ["Merasa dihargai dan bertanggung jawab", "Merasa tidak nyaman dengan perhatian tersebut", "Tidak peduli dengan kepercayaan orang lain", "Merasa terbebani dan stres"],
+    "answer": "Merasa dihargai dan bertanggung jawab"
+  },
+  {
+    "question": "Apakah Anda percaya bahwa integritas adalah kualitas yang dapat dikembangkan dan ditingkatkan seiring waktu?",
+    "options": ["Ya", "Tidak", "Kadang-kadang", "Saya tidak tahu"],
+    "answer": "Ya"
+  },
+  {
+    "question": "Bagaimana Anda menanggapi jika Anda mengetahui bahwa seseorang memalsukan informasi untuk mendapatkan keuntungan?",
+    "options": ["Mengungkapkan kebohongan dan menunjukkan konsekuensinya", "Mengabaikan informasi tersebut dan tidak bertindak", "Menggunakan informasi tersebut untuk keuntungan Anda sendiri", "Merasa tidak peduli dengan tindakan orang lain"],
+    "answer": "Mengungkapkan kebohongan dan menunjukkan konsekuensinya"
+  }
+]

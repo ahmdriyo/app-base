@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Apa yang dimaksud dengan DSM dalam konteks psikologi klinis?",
+    "options": ["Database Sistem Mental", "Diagnostic and Statistical Manual of Mental Disorders", "Department of Social Medicine", "Distress and Symptom Management"],
+    "answer": "Diagnostic and Statistical Manual of Mental Disorders"
+  },
+  {
+    "question": "Bagaimana cara membedakan antara kecemasan umum dan gangguan kecemasan sosial?",
+    "options": ["Kecemasan umum bersifat lebih intens", "Gangguan kecemasan sosial berkaitan dengan interaksi sosial", "Keduanya adalah kondisi yang sama", "Tidak ada perbedaan antara keduanya"],
+    "answer": "Gangguan kecemasan sosial berkaitan dengan interaksi sosial"
+  },
+  {
+    "question": "Apa yang dimaksud dengan terapi kognitif-perilaku?",
+    "options": ["Terapi yang fokus pada penggunaan obat-obatan", "Terapi yang membantu individu memahami dan mengubah pola pikir dan perilaku yang tidak sehat", "Terapi yang mengandalkan pada relasi terapeutik", "Terapi yang berfokus pada peran keluarga dalam masalah kesehatan mental"],
+    "answer": "Terapi yang membantu individu memahami dan mengubah pola pikir dan perilaku yang tidak sehat"
+  },
+  {
+    "question": "Apa yang dimaksud dengan gangguan depresi mayor?",
+    "options": ["Kondisi sedih atau tertekan yang sementara", "Gangguan suasana hati yang serius yang mempengaruhi kemampuan seseorang untuk menjalani kehidupan sehari-hari", "Gangguan emosional yang hanya terjadi pada musim dingin", "Kondisi yang disebabkan oleh gangguan hormonal"],
+    "answer": "Gangguan suasana hati yang serius yang mempengaruhi kemampuan seseorang untuk menjalani kehidupan sehari-hari"
+  },
+  {
+    "question": "Apa yang dimaksud dengan gangguan bipolar?",
+    "options": ["Gangguan yang ditandai dengan perubahan suasana hati dari depresi menjadi mania", "Gangguan yang ditandai dengan ketakutan berlebihan terhadap situasi sosial", "Gangguan yang disebabkan oleh konsumsi alkohol berlebihan", "Gangguan yang menyebabkan kebingungan identitas"],
+    "answer": "Gangguan yang ditandai dengan perubahan suasana hati dari depresi menjadi mania"
+  },
+  {
+    "question": "Bagaimana cara menangani klien yang menunjukkan tanda-tanda perilaku bunuh diri?",
+    "options": ["Mengabaikan perasaan klien dan mendorongnya untuk menyelesaikan tugas-tugasnya", "Memperkuat keinginan bunuh diri klien", "Mengambil tindakan yang sesuai untuk memastikan keselamatan klien dan mengarahkannya ke sumber dukungan profesional", "Mencemooh atau menghina klien karena pikiran bunuh dirinya"],
+    "answer": "Mengambil tindakan yang sesuai untuk memastikan keselamatan klien dan mengarahkannya ke sumber dukungan profesional"
+  },
+  {
+    "question": "Apa yang dimaksud dengan psikoterapi?",
+    "options": ["Terapi yang hanya melibatkan obat-obatan", "Terapi yang fokus pada penggunaan alat-alat psikologis", "Terapi yang melibatkan interaksi antara terapis dan klien untuk mengatasi masalah emosional atau psikologis", "Terapi yang hanya dilakukan oleh psikiater"],
+    "answer": "Terapi yang melibatkan interaksi antara terapis dan klien untuk mengatasi masalah emosional atau psikologis"
+  },
+  {
+    "question": "Apa yang dimaksud dengan gangguan makan anoreksia nervosa?",
+    "options": ["Ketidakmampuan untuk mengendalikan asupan makanan", "Pola makan berlebihan yang tidak terkontrol", "Kekurangan berat badan yang ekstrem yang dihasilkan dari penolakan untuk mempertahankan berat badan yang sehat", "Kecenderungan untuk makan berlebihan kemudian muntah secara sengaja"],
+    "answer": "Kekurangan berat badan yang ekstrem yang dihasilkan dari penolakan untuk mempertahankan berat badan yang sehat"
+  },
+  {
+    "question": "Bagaimana cara membedakan antara gangguan panik dan kecemasan umum?",
+    "options": ["Gangguan panik disertai dengan serangan kepanikan yang tiba-tiba dan terjadi secara berulang", "Kecemasan umum terjadi karena situasi yang spesifik", "Keduanya memiliki gejala yang sama", "Gangguan panik hanya terjadi pada anak-anak dan remaja"],
+    "answer": "Gangguan panik disertai dengan serangan kepanikan yang tiba-tiba dan terjadi secara berulang"
+  },
+  {
+    "question": "Apa yang dimaksud dengan gangguan obsesif-kompulsif (OCD)?",
+    "options": ["Gangguan yang menyebabkan individu merasa khawatir secara berlebihan tentang kesehatannya", "Gangguan yang ditandai dengan keinginan kuat untuk menghindari situasi sosial", "Gangguan yang menyebabkan pikiran yang tak terkendali (obsesi) diikuti oleh perilaku repetitif (kompulsi)", "Gangguan yang menyebabkan perubahan suasana hati yang drastis"],
+    "answer": "Gangguan yang menyebabkan pikiran yang tak terkendali (obsesi) diikuti oleh perilaku repetitif (kompulsi)"
+  },
+  {
+    "question": "Apa yang dimaksud dengan gangguan stres pasca-trauma (PTSD)?",
+    "options": ["Gangguan yang disebabkan oleh ketidakstabilan emosional", "Gangguan yang muncul sebagai respons terhadap kejadian traumatis yang dialami individu", "Gangguan yang ditandai dengan ketidakmampuan untuk mengendalikan pikiran yang berlebihan", "Gangguan yang menyebabkan kehilangan ingatan akan kejadian traumatis"],
+    "answer": "Gangguan yang muncul sebagai respons terhadap kejadian traumatis yang dialami individu"
+  },
+  {
+    "question": "Apa yang dimaksud dengan terapi interpersonal?",
+    "options": ["Terapi yang membantu individu memahami dan mengubah pola pikir dan perilaku yang tidak sehat", "Terapi yang fokus pada hubungan antara individu dan lingkungannya", "Terapi yang menggunakan teknik relaksasi untuk mengurangi stres", "Terapi yang mengandalkan pada obat-obatan"],
+    "answer": "Terapi yang fokus pada hubungan antara individu dan lingkungannya"
+  },
+  {
+    "question": "Apa yang dimaksud dengan gangguan hiperaktivitas impulsif?",
+    "options": ["Gangguan yang ditandai dengan kesulitan fokus dan hiperaktivitas", "Gangguan yang disebabkan oleh paparan zat-zat berbahaya", "Gangguan yang menyebabkan kehilangan kontrol terhadap perilaku impulsif", "Gangguan yang berkaitan dengan ketidakmampuan dalam berkomunikasi"],
+    "answer": "Gangguan yang ditandai dengan kesulitan fokus dan hiperaktivitas"
+  },
+  {
+    "question": "Bagaimana cara menangani klien dengan gangguan bipolar selama fase manik?",
+    "options": ["Mendukung dan mengikuti keinginan klien selama fase manik", "Menghindari kontak dengan klien selama fase manik", "Mengalihkan klien ke psikiater tanpa memberikan dukungan", "Mengambil tindakan untuk memastikan keselamatan klien dan memonitor gejala manik"],
+    "answer": "Mengambil tindakan untuk memastikan keselamatan klien dan memonitor gejala manik"
+  },
+  {
+    "question": "Apa yang dimaksud dengan gangguan paranoid?",
+    "options": ["Gangguan yang disebabkan oleh kecemasan yang ekstrem", "Gangguan yang berkaitan dengan ketidakpercayaan yang berlebihan dan rasa curiga terhadap orang lain", "Gangguan yang menyebabkan kecenderungan untuk menarik diri dari interaksi sosial", "Gangguan yang berkaitan dengan kehilangan keterkaitan dengan realitas"],
+    "answer": "Gangguan yang berkaitan dengan ketidakpercayaan yang berlebihan dan rasa curiga terhadap orang lain"
+  },
+  {
+    "question": "Apa yang dimaksud dengan terapi psikoanalitik?",
+    "options": ["Terapi yang membantu individu memahami dan mengubah pola pikir dan perilaku yang tidak sehat", "Terapi yang fokus pada penggunaan obat-obatan", "Terapi yang mengandalkan pada relasi terapeutik", "Terapi yang mengungkapkan konflik bawah sadar untuk mengurangi gejala psikologis"],
+    "answer": "Terapi yang mengungkapkan konflik bawah sadar untuk mengurangi gejala psikologis"
+  },
+  {
+    "question": "Bagaimana cara menangani klien yang menunjukkan tanda-tanda keinginan untuk menyakiti diri sendiri?",
+    "options": ["Mengabaikan tanda-tanda tersebut karena biasanya hanya perhatian", "Mengambil tindakan untuk memastikan keselamatan klien dan mengarahkannya ke sumber dukungan profesional", "Mengkritik klien karena perilaku tersebut", "Memberikan perhatian ekstra untuk menghindari perilaku tersebut"],
+    "answer": "Mengambil tindakan untuk memastikan keselamatan klien dan mengarahkannya ke sumber dukungan profesional"
+  },
+  {
+    "question": "Apa yang dimaksud dengan gangguan fobia spesifik?",
+    "options": ["Ketakutan yang berlebihan terhadap situasi sosial", "Ketakutan yang berlebihan terhadap benda atau situasi tertentu", "Ketakutan yang berlebihan terhadap berat badan dan makanan", "Ketakutan yang berkaitan dengan gangguan kesehatan"],
+    "answer": "Ketakutan yang berlebihan terhadap benda atau situasi tertentu"
+  },
+  {
+    "question": "Apa yang dimaksud dengan gangguan makan bulimia nervosa?",
+    "options": ["Pola makan berlebihan yang tidak terkendali", "Pola makan yang tidak seimbang", "Pola makan yang disertai dengan siklus makan berlebihan dan membersihkan (purging)", "Ketidakmampuan untuk mengendalikan asupan makanan"],
+    "answer": "Pola makan yang disertai dengan siklus makan berlebihan dan membersihkan (purging)"
+  },
+  {
+    "question": "Bagaimana cara menangani klien yang menunjukkan tanda-tanda depresi yang serius?",
+    "options": ["Mengabaikan tanda-tanda tersebut karena biasanya hanya perasaan sedih", "Mengambil tindakan untuk memastikan keselamatan klien dan mengarahkannya ke sumber dukungan profesional", "Mengalihkan perhatian klien ke hal-hal positif", "Memberikan obat-obatan untuk menghilangkan gejala depresi"],
+    "answer": "Mengambil tindakan untuk memastikan keselamatan klien dan mengarahkannya ke sumber dukungan profesional"
+  }
+]

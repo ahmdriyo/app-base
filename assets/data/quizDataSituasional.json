@@ -1,0 +1,452 @@
+[
+  {
+    "question": "Anda mendapat tugas besar dari atasan di tempat kerja. Bagaimana Anda meresponsnya?",
+    "options": [
+      "Menyambut tantangan itu dengan antusiasme",
+      "Merasa sedikit tertekan, tapi kemudian menyusun rencana untuk menyelesaikannya",
+      "Merasa terbebani dan cemas akan kegagalan",
+      "Tidak peduli dan membiarkan hal itu berjalan dengan sendirinya"
+    ],
+    "answer": "Merasa sedikit tertekan, tapi kemudian menyusun rencana untuk menyelesaikannya"
+  },
+  {
+    "question": "Anda berada di sebuah pesta besar dengan banyak orang asing. Bagaimana Anda bersikap?",
+    "options": [
+      "Mencoba berbaur dengan orang-orang baru dan berinteraksi dengan mereka",
+      "Menghabiskan waktu dengan orang yang Anda kenal dan nyaman bersama",
+      "Merasa canggung dan ingin segera pergi dari pesta",
+      "Mengabaikan orang-orang di sekitar dan fokus pada hal-hal lain"
+    ],
+    "answer": "Mencoba berbaur dengan orang-orang baru dan berinteraksi dengan mereka"
+  },
+  {
+    "question": "Anda menghadapi situasi konflik di tempat kerja antara dua rekan kerja. Bagaimana Anda menangani situasi tersebut?",
+    "options": [
+      "Mendukung salah satu pihak sesuai dengan keyakinan Anda",
+      "Menghindari konflik sepenuhnya dan berharap situasinya membaik dengan sendirinya",
+      "Mencoba menjadi penengah dan mencari solusi yang menguntungkan semua pihak",
+      "Menarik diri dari situasi dan tidak terlibat"
+    ],
+    "answer": "Mencoba menjadi penengah dan mencari solusi yang menguntungkan semua pihak"
+  },
+  {
+    "question": "Anda diundang ke acara sosial yang tidak Anda minati. Bagaimana Anda meresponsnya?",
+    "options": [
+      "Menjaga sikap yang sopan namun mencari alasan untuk segera pergi",
+      "Menerima undangan dengan senang hati dan mencoba menikmati acara tersebut",
+      "Menolak undangan dengan alasan yang jelas",
+      "Datang ke acara tetapi menunjukkan ketidaknyamanan Anda sepanjang waktu"
+    ],
+    "answer": "Menerima undangan dengan senang hati dan mencoba menikmati acara tersebut"
+  },
+  {
+    "question": "Anda mendapati diri Anda dalam situasi darurat di jalan raya. Bagaimana Anda bereaksi?",
+    "options": [
+      "Menjadi panik dan bingung, tidak tahu harus berbuat apa",
+      "Mencari bantuan dari orang-orang di sekitar dan bersama-sama mencari solusi",
+      "Mengambil tindakan cepat dan berpikir secara rasional untuk menyelesaikan masalah",
+      "Mengabaikan situasi tersebut dan berharap semuanya akan baik-baik saja"
+    ],
+    "answer": "Mengambil tindakan cepat dan berpikir secara rasional untuk menyelesaikan masalah"
+  },
+  {
+    "question": "Anda diberi tanggung jawab untuk memimpin sebuah proyek besar di tempat kerja. Bagaimana Anda menanggapi tanggung jawab tersebut?",
+    "options": [
+      "Merasa terbebani tapi tetap fokus untuk menyelesaikan proyek dengan baik",
+      "Merasa tidak kompeten dan ragu-ragu dalam mengambil keputusan",
+      "Merasa bangga dan antusias dengan kesempatan tersebut",
+      "Mengabaikan tanggung jawab tersebut dan berharap orang lain akan mengambil alih"
+    ],
+    "answer": "Merasa terbebani tapi tetap fokus untuk menyelesaikan proyek dengan baik"
+  },
+  {
+    "question": "Anda mendapat kritik keras dari rekan kerja di depan umum. Bagaimana Anda menanggapi kritik tersebut?",
+    "options": [
+      "Merasa marah dan ingin membalas kritik tersebut dengan keras",
+      "Merasa malu dan merasa terhina oleh kritik tersebut",
+      "Mengabaikan kritik tersebut dan tidak mengindahkan pendapat orang lain",
+      "Menerima kritik tersebut dengan kepala dingin dan berusaha belajar dari kesalahan"
+    ],
+    "answer": "Menerima kritik tersebut dengan kepala dingin dan berusaha belajar dari kesalahan"
+  },
+  {
+    "question": "Anda mendapat tawaran untuk bekerja di luar negeri. Bagaimana Anda merespons tawaran tersebut?",
+    "options": [
+      "Menerima tawaran tersebut dengan senang hati dan siap untuk tantangan baru",
+      "Meragukan kemampuan diri sendiri dan ragu untuk menerima tawaran tersebut",
+      "Merasa tidak ingin meninggalkan lingkungan yang nyaman di negara asal",
+      "Mengabaikan tawaran tersebut dan tetap pada status quo"
+    ],
+    "answer": "Menerima tawaran tersebut dengan senang hati dan siap untuk tantangan baru"
+  },
+  {
+    "question": "Anda bertemu dengan orang yang berpikiran sangat berbeda dengan Anda. Bagaimana Anda berinteraksi dengannya?",
+    "options": [
+      "Mendengarkan dengan seksama dan mencoba memahami sudut pandangnya",
+      "Berdebat keras untuk membuktikan kebenaran sudut pandang Anda",
+      "Menarik diri dari percakapan dan mencari teman lain untuk diajak berbicara",
+      "Mengabaikan orang tersebut dan tetap pada pendirian Anda"
+    ],
+    "answer": "Mendengarkan dengan seksama dan mencoba memahami sudut pandangnya"
+  },
+  {
+    "question": "Anda diminta untuk berperan sebagai mediator dalam perselisihan antara dua teman dekat. Bagaimana Anda menangani situasi tersebut?",
+    "options": [
+      "Mendukung salah satu teman sesuai dengan keyakinan Anda",
+      "Mencoba memahami kedua belah pihak dan menemukan solusi yang adil",
+      "Menghindari konflik dan membiarkan mereka menyelesaikannya sendiri",
+      "Menarik diri dari situasi tersebut dan tidak ingin terlibat"
+    ],
+    "answer": "Mencoba memahami kedua belah pihak dan menemukan solusi yang adil"
+  },
+  {
+    "question": "Anda berada dalam situasi di mana Anda memiliki waktu terbatas untuk menyelesaikan tugas penting. Bagaimana Anda mengatur waktu Anda?",
+    "options": [
+      "Panik dan tidak tahu harus mulai dari mana",
+      "Mengatur prioritas dengan bijak dan bekerja secara efisien",
+      "Mengabaikan tenggat waktu dan berharap semuanya akan baik-baik saja",
+      "Menggunakan waktu yang tersisa untuk menikmati diri sendiri tanpa menyelesaikan tugas"
+    ],
+    "answer": "Mengatur prioritas dengan bijak dan bekerja secara efisien"
+  },
+  {
+    "question": "Anda diberi tanggung jawab untuk memimpin sebuah tim proyek di universitas. Bagaimana Anda memimpin tim tersebut?",
+    "options": [
+      "Memimpin dengan tangan besi dan memberikan perintah tanpa bertanya",
+      "Menghindari konflik dan membiarkan anggota tim menyelesaikan tugas mereka sendiri",
+      "Mendorong kerjasama tim dan memastikan setiap anggota memiliki peran yang jelas",
+      "Menyerahkan tanggung jawab kepemimpinan kepada orang lain dalam tim"
+    ],
+    "answer": "Mendorong kerjasama tim dan memastikan setiap anggota memiliki peran yang jelas"
+  },
+  {
+    "question": "Anda dihadapkan pada situasi di mana Anda harus mengambil keputusan besar yang berdampak pada masa depan Anda. Bagaimana Anda mengambil keputusan?",
+    "options": [
+      "Mengikuti kata hati Anda tanpa pertimbangan lebih lanjut",
+      "Merasa bingung dan tidak tahu harus memilih yang mana",
+      "Menganalisis semua opsi dengan cermat dan memilih yang terbaik",
+      "Mengabaikan situasi tersebut dan berharap segalanya akan berjalan dengan baik"
+    ],
+    "answer": "Menganalisis semua opsi dengan cermat dan memilih yang terbaik"
+  },
+  {
+    "question": "Anda mendapati diri Anda berada dalam situasi yang membuat Anda merasa tidak nyaman. Bagaimana Anda mengatasinya?",
+    "options": [
+      "Menghindari situasi tersebut sebisa mungkin dan mencari kesenangan lain",
+      "Merasa tertekan dan tidak tahu harus berbuat apa",
+      "Mengabaikan perasaan tidak nyaman dan mencoba melupakan situasi tersebut",
+      "Menghadapi ketidaknyamanan tersebut dengan keberanian dan berusaha mengatasinya"
+    ],
+    "answer": "Menghadapi ketidaknyamanan tersebut dengan keberanian dan berusaha mengatasinya"
+  },
+  {
+    "question": "Anda diminta untuk berbicara di depan umum tentang topik yang belum Anda siapkan. Bagaimana Anda menanggapi permintaan tersebut?",
+    "options": [
+      "Menyiapkan diri sebaik mungkin dan memberikan presentasi yang terbaik",
+      "Menolak permintaan tersebut dengan alasan yang jelas",
+      "Setuju untuk berbicara tapi merasa sangat cemas dan tidak percaya diri",
+      "Menerima permintaan tersebut tanpa persiapan dan berbicara apa adanya"
+    ],
+    "answer": "Menyiapkan diri sebaik mungkin dan memberikan presentasi yang terbaik"
+  },
+  {
+    "question": "Anda mendapati diri Anda berada dalam situasi di mana Anda harus meminta bantuan orang lain. Bagaimana Anda melakukannya?",
+    "options": [
+      "Merasa malu dan enggan untuk meminta bantuan",
+      "Menunggu sampai seseorang menawarkan bantuan sebelum Anda meminta",
+      "Mengabaikan kebutuhan bantuan Anda dan mencoba menyelesaikan masalah sendiri",
+      "Mengajukan permintaan bantuan dengan jelas dan sopan"
+    ],
+    "answer": "Mengajukan permintaan bantuan dengan jelas dan sopan"
+  },
+  {
+    "question": "Anda mendapati diri Anda dalam situasi di mana Anda harus membuat keputusan penting secara cepat. Bagaimana Anda menanggapi situasi tersebut?",
+    "options": [
+      "Mengabaikan situasi tersebut dan membiarkan orang lain membuat keputusan",
+      "Merasa panik dan tidak tahu harus memilih yang mana",
+      "Menganalisis situasi dengan cepat dan membuat keputusan berdasarkan penilaian terbaik Anda",
+      "Menunda pengambilan keputusan dan berharap situasi akan membaik dengan sendirinya"
+    ],
+    "answer": "Menganalisis situasi dengan cepat dan membuat keputusan berdasarkan penilaian terbaik Anda"
+  },
+  {
+    "question": "Anda merasa tidak setuju dengan keputusan manajemen di tempat kerja. Bagaimana Anda mengekspresikan ketidaksetujuan Anda?",
+    "options": [
+      "Menahan ketidaksetujuan Anda dan tidak mengungkapkannya",
+      "Mengkritik manajemen di belakang mereka tanpa menyampaikan langsung",
+      "Membawa permasalahan tersebut ke dalam diskusi secara terbuka dan konstruktif",
+      "Mengabaikan keputusan tersebut dan tetap melanjutkan pekerjaan seperti biasa"
+    ],
+    "answer": "Membawa permasalahan tersebut ke dalam diskusi secara terbuka dan konstruktif"
+  },
+  {
+    "question": "Anda mendapat tugas besar dari atasan di tempat kerja. Bagaimana Anda meresponsnya?",
+    "options": [
+      "Menyambut tantangan itu dengan antusiasme",
+      "Merasa sedikit tertekan, tapi kemudian menyusun rencana untuk menyelesaikannya",
+      "Merasa terbebani dan cemas akan kegagalan",
+      "Tidak peduli dan membiarkan hal itu berjalan dengan sendirinya"
+    ],
+    "answer": "Merasa sedikit tertekan, tapi kemudian menyusun rencana untuk menyelesaikannya"
+  },
+  {
+    "question": "Anda berada di sebuah pesta besar dengan banyak orang asing. Bagaimana Anda bersikap?",
+    "options": [
+      "Mencoba berbaur dengan orang-orang baru dan berinteraksi dengan mereka",
+      "Menghabiskan waktu dengan orang yang Anda kenal dan nyaman bersama",
+      "Merasa canggung dan ingin segera pergi dari pesta",
+      "Mengabaikan orang-orang di sekitar dan fokus pada hal-hal lain"
+    ],
+    "answer": "Mencoba berbaur dengan orang-orang baru dan berinteraksi dengan mereka"
+  },
+  {
+    "question": "Anda menghadapi situasi konflik di tempat kerja antara dua rekan kerja. Bagaimana Anda menangani situasi tersebut?",
+    "options": [
+      "Mendukung salah satu pihak sesuai dengan keyakinan Anda",
+      "Mencoba menjadi penengah dan mencari solusi yang menguntungkan semua pihak",
+      "Menghindari konflik sepenuhnya dan berharap situasinya membaik dengan sendirinya",
+      "Menarik diri dari situasi dan tidak terlibat"
+    ],
+    "answer": "Mencoba menjadi penengah dan mencari solusi yang menguntungkan semua pihak"
+  },
+  {
+    "question": "Anda diundang ke acara sosial yang tidak Anda minati. Bagaimana Anda meresponsnya?",
+    "options": [
+      "Menerima undangan dengan senang hati dan mencoba menikmati acara tersebut",
+      "Menjaga sikap yang sopan namun mencari alasan untuk segera pergi",
+      "Menolak undangan dengan alasan yang jelas",
+      "Datang ke acara tetapi menunjukkan ketidaknyamanan Anda sepanjang waktu"
+    ],
+    "answer": "Menerima undangan dengan senang hati dan mencoba menikmati acara tersebut"
+  },
+  {
+    "question": "Anda mendapati diri Anda dalam situasi darurat di jalan raya. Bagaimana Anda bereaksi?",
+    "options": [
+      "Mencari bantuan dari orang-orang di sekitar dan bersama-sama mencari solusi",
+      "Mengambil tindakan cepat dan berpikir secara rasional untuk menyelesaikan masalah",
+      "Menjadi panik dan bingung, tidak tahu harus berbuat apa",
+      "Mengabaikan situasi tersebut dan berharap semuanya akan baik-baik saja"
+    ],
+    "answer": "Mengambil tindakan cepat dan berpikir secara rasional untuk menyelesaikan masalah"
+  },
+  {
+    "question": "Anda diberi tanggung jawab untuk memimpin sebuah proyek besar di tempat kerja. Bagaimana Anda menanggapi tanggung jawab tersebut?",
+    "options": [
+      "Merasa terbebani tapi tetap fokus untuk menyelesaikan proyek dengan baik",
+      "Merasa bangga dan antusias dengan kesempatan tersebut",
+      "Merasa tidak kompeten dan ragu-ragu dalam mengambil keputusan",
+      "Mengabaikan tanggung jawab tersebut dan berharap orang lain akan mengambil alih"
+    ],
+    "answer": "Merasa terbebani tapi tetap fokus untuk menyelesaikan proyek dengan baik"
+  },
+  {
+    "question": "Anda mendapat kritik keras dari rekan kerja di depan umum. Bagaimana Anda menanggapi kritik tersebut?",
+    "options": [
+      "Merasa marah dan ingin membalas kritik tersebut dengan keras",
+      "Merasa malu dan merasa terhina oleh kritik tersebut",
+      "Menerima kritik tersebut dengan kepala dingin dan berusaha belajar dari kesalahan",
+      "Mengabaikan kritik tersebut dan tidak mengindahkan pendapat orang lain"
+    ],
+    "answer": "Menerima kritik tersebut dengan kepala dingin dan berusaha belajar dari kesalahan"
+  },
+  {
+    "question": "Anda mendapat tawaran untuk bekerja di luar negeri. Bagaimana Anda merespons tawaran tersebut?",
+    "options": [
+      "Meragukan kemampuan diri sendiri dan ragu untuk menerima tawaran tersebut",
+      "Menerima tawaran tersebut dengan senang hati dan siap untuk tantangan baru",
+      "Merasa tidak ingin meninggalkan lingkungan yang nyaman di negara asal",
+      "Mengabaikan tawaran tersebut dan tetap pada status quo"
+    ],
+    "answer": "Menerima tawaran tersebut dengan senang hati dan siap untuk tantangan baru"
+  },
+  {
+    "question": "Anda bertemu dengan orang yang berpikiran sangat berbeda dengan Anda. Bagaimana Anda berinteraksi dengannya?",
+    "options": [
+      "Mendengarkan dengan seksama dan mencoba memahami sudut pandangnya",
+      "Berdebat keras untuk membuktikan kebenaran sudut pandang Anda",
+      "Menarik diri dari percakapan dan mencari teman lain untuk diajak berbicara",
+      "Mengabaikan orang tersebut dan tetap pada pendirian Anda"
+    ],
+    "answer": "Mendengarkan dengan seksama dan mencoba memahami sudut pandangnya"
+  },
+  {
+    "question": "Anda diminta untuk berperan sebagai mediator dalam perselisihan antara dua teman dekat. Bagaimana Anda menangani situasi tersebut?",
+    "options": [
+      "Mencoba memahami kedua belah pihak dan menemukan solusi yang adil",
+      "Mendukung salah satu teman sesuai dengan keyakinan Anda",
+      "Menghindari konflik dan membiarkan mereka menyelesaikannya sendiri",
+      "Menarik diri dari situasi tersebut dan tidak ingin terlibat"
+    ],
+    "answer": "Mencoba memahami kedua belah pihak dan menemukan solusi yang adil"
+  },
+  {
+    "question": "Anda berada dalam situasi di mana Anda memiliki waktu terbatas untuk menyelesaikan tugas penting. Bagaimana Anda mengatur waktu Anda?",
+    "options": [
+      "Panik dan tidak tahu harus mulai dari mana",
+      "Mengatur prioritas dengan bijak dan bekerja secara efisien",
+      "Mengabaikan tenggat waktu dan berharap semuanya akan baik-baik saja",
+      "Menggunakan waktu yang tersisa untuk menikmati diri sendiri tanpa menyelesaikan tugas"
+    ],
+    "answer": "Mengatur prioritas dengan bijak dan bekerja secara efisien"
+  },
+  {
+    "question": "Anda diberi tanggung jawab untuk memimpin sebuah tim proyek di universitas. Bagaimana Anda memimpin tim tersebut?",
+    "options": [
+      "Memimpin dengan tangan besi dan memberikan perintah tanpa bertanya",
+      "Menghindari konflik dan membiarkan anggota tim menyelesaikan tugas mereka sendiri",
+      "Mendorong kerjasama tim dan memastikan setiap anggota memiliki peran yang jelas",
+      "Menyerahkan tanggung jawab kepemimpinan kepada orang lain dalam tim"
+    ],
+    "answer": "Mendorong kerjasama tim dan memastikan setiap anggota memiliki peran yang jelas"
+  },
+  {
+    "question": "Anda dihadapkan pada situasi di mana Anda harus mengambil keputusan besar yang berdampak pada masa depan Anda. Bagaimana Anda mengambil keputusan?",
+    "options": [
+      "Menganalisis semua opsi dengan cermat dan memilih yang terbaik",
+      "Mengikuti kata hati Anda tanpa pertimbangan lebih lanjut",
+      "Merasa bingung dan tidak tahu harus memilih yang mana",
+      "Mengabaikan situasi tersebut dan berharap segalanya akan berjalan dengan baik"
+    ],
+    "answer": "Menganalisis semua opsi dengan cermat dan memilih yang terbaik"
+  },
+  {
+    "question": "Anda mendapati diri Anda berada dalam situasi yang membuat Anda merasa tidak nyaman. Bagaimana Anda mengatasinya?",
+    "options": [
+      "Menghindari situasi tersebut sebisa mungkin dan mencari kesenangan lain",
+      "Menghadapi ketidaknyamanan tersebut dengan keberanian dan berusaha mengatasinya",
+      "Merasa tertekan dan tidak tahu harus berbuat apa",
+      "Mengabaikan perasaan tidak nyaman dan mencoba melupakan situasi tersebut"
+    ],
+    "answer": "Menghadapi ketidaknyamanan tersebut dengan keberanian dan berusaha mengatasinya"
+  },
+  {
+    "question": "Anda diminta untuk berbicara di depan umum tentang topik yang belum Anda siapkan. Bagaimana Anda menanggapi permintaan tersebut?",
+    "options": [
+      "Menolak permintaan tersebut dengan alasan yang jelas",
+      "Setuju untuk berbicara tapi merasa sangat cemas dan tidak percaya diri",
+      "Menyiapkan diri sebaik mungkin dan memberikan presentasi yang terbaik",
+      "Menerima permintaan tersebut tanpa persiapan dan berbicara apa adanya"
+    ],
+    "answer": "Menyiapkan diri sebaik mungkin dan memberikan presentasi yang terbaik"
+  },
+  {
+    "question": "Anda mendapati diri Anda berada dalam situasi di mana Anda harus meminta bantuan orang lain. Bagaimana Anda melakukannya?",
+    "options": [
+      "Merasa malu dan enggan untuk meminta bantuan",
+      "Mengajukan permintaan bantuan dengan jelas dan sopan",
+      "Menunggu sampai seseorang menawarkan bantuan sebelum Anda meminta",
+      "Mengabaikan kebutuhan bantuan Anda dan mencoba menyelesaikan masalah sendiri"
+    ],
+    "answer": "Mengajukan permintaan bantuan dengan jelas dan sopan"
+  },
+  {
+    "question": "Anda mendapati diri Anda dalam situasi di mana Anda harus membuat keputusan penting secara cepat. Bagaimana Anda menanggapi situasi tersebut?",
+    "options": [
+      "Menganalisis situasi dengan cepat dan membuat keputusan berdasarkan penilaian terbaik Anda",
+      "Mengabaikan situasi tersebut dan membiarkan orang lain membuat keputusan",
+      "Merasa panik dan tidak tahu harus memilih yang mana",
+      "Menunda pengambilan keputusan dan berharap situasi akan membaik dengan sendirinya"
+    ],
+    "answer": "Menganalisis situasi dengan cepat dan membuat keputusan berdasarkan penilaian terbaik Anda"
+  },
+  {
+    "question": "Anda merasa tidak setuju dengan keputusan manajemen di tempat kerja. Bagaimana Anda mengekspresikan ketidaksetujuan Anda?",
+    "options": [
+      "Membawa permasalahan tersebut ke dalam diskusi secara terbuka dan konstruktif",
+      "Menahan ketidaksetujuan Anda dan tidak mengungkapkannya",
+      "Mengkritik manajemen di belakang mereka tanpa menyampaikan langsung",
+      "Mengabaikan keputusan tersebut dan tetap melanjutkan pekerjaan seperti biasa"
+    ],
+    "answer": "Membawa permasalahan tersebut ke dalam diskusi secara terbuka dan konstruktif"
+  },
+  {
+    "question": "Anda berada dalam situasi di mana Anda dihadapkan pada konflik antara kebutuhan pribadi dan kepentingan kelompok. Bagaimana Anda menyelesaikan konflik tersebut?",
+    "options": [
+      "Mengutamakan kepentingan pribadi tanpa mempertimbangkan kelompok",
+      "Mengalah kepada kepentingan kelompok tanpa memperhatikan kebutuhan pribadi",
+      "Mencari solusi yang menguntungkan untuk semua pihak yang terlibat",
+      "Mengabaikan konflik tersebut dan berharap semuanya akan berjalan dengan baik"
+    ],
+    "answer": "Mencari solusi yang menguntungkan untuk semua pihak yang terlibat"
+  },
+  {
+    "question": "Anda berada dalam situasi di mana Anda diminta untuk melakukan sesuatu yang bertentangan dengan nilai-nilai pribadi Anda. Bagaimana Anda menangani situasi ini?",
+    "options": [
+      "Melakukan apa yang diminta tanpa memperhatikan nilai-nilai pribadi",
+      "Mengambil tindakan yang bertentangan dengan nilai-nilai pribadi demi menghindari konflik",
+      "Membiarkan orang lain membuat keputusan untuk Anda dalam situasi tersebut",
+      "Menjaga integritas pribadi dan menolak untuk melakukan apa yang diminta"
+    ],
+    "answer": "Menjaga integritas pribadi dan menolak untuk melakukan apa yang diminta"
+  },
+  {
+    "question": "Anda berada dalam situasi di mana Anda merasa tidak nyaman dengan tingkat risiko yang terlibat. Bagaimana Anda menangani perasaan tidak nyaman tersebut?",
+    "options": [
+      "Mengabaikan perasaan tidak nyaman dan melanjutkan tanpa mempertimbangkan risiko",
+      "Mengidentifikasi risiko secara jelas dan membuat keputusan yang tepat berdasarkan penilaian risiko",
+      "Menolak untuk melanjutkan dan mencari alternatif yang lebih aman",
+      "Bertindak impulsif tanpa mempertimbangkan konsekuensi yang mungkin terjadi"
+    ],
+    "answer": "Mengidentifikasi risiko secara jelas dan membuat keputusan yang tepat berdasarkan penilaian risiko"
+  },
+  {
+    "question": "Anda diberi tanggung jawab untuk menyelesaikan proyek yang kompleks dalam waktu yang singkat. Bagaimana Anda merespons tantangan ini?",
+    "options": [
+      "Merasa cemas dan stres namun tetap berusaha menyelesaikan proyek",
+      "Menyerah pada tekanan dan mengabaikan tanggung jawab tersebut",
+      "Mengatur strategi kerja yang efektif dan bekerja keras untuk menyelesaikan proyek tepat waktu",
+      "Mengabaikan tenggat waktu dan membiarkan proyek berjalan dengan sendirinya"
+    ],
+    "answer": "Mengatur strategi kerja yang efektif dan bekerja keras untuk menyelesaikan proyek tepat waktu"
+  },
+  {
+    "question": "Anda berada dalam situasi di mana Anda harus menegakkan aturan yang tidak populer di antara rekan kerja atau teman-teman. Bagaimana Anda menangani situasi tersebut?",
+    "options": [
+      "Mengalah kepada tekanan kelompok dan mengabaikan aturan yang tidak populer",
+      "Menegakkan aturan tanpa memandang popularitasnya dan menjelaskan alasan di balik keputusan Anda",
+      "Menghindari konflik dengan tidak menegakkan aturan yang tidak populer",
+      "Mengabaikan situasi tersebut dan membiarkan orang lain menyelesaikannya"
+    ],
+    "answer": "Menegakkan aturan tanpa memandang popularitasnya dan menjelaskan alasan di balik keputusan Anda"
+  },
+  {
+    "question": "Anda berada dalam situasi di mana Anda dihadapkan pada tantangan besar yang membutuhkan keberanian untuk dihadapi. Bagaimana Anda merespons tantangan tersebut?",
+    "options": [
+      "Menghadapi tantangan tersebut dengan keberanian dan tekad untuk berhasil",
+      "Merasa takut namun tetap berusaha mengatasi tantangan tersebut",
+      "Mengabaikan tantangan tersebut dan berharap semuanya akan berjalan dengan baik",
+      "Menyerah kepada tekanan dan menghindari tantangan tersebut sepenuhnya"
+    ],
+    "answer": "Menghadapi tantangan tersebut dengan keberanian dan tekad untuk berhasil"
+  },
+  {
+    "question": "Anda berada dalam situasi di mana Anda memiliki kekuasaan untuk memengaruhi keputusan yang akan memengaruhi banyak orang. Bagaimana Anda menggunakan kekuasaan tersebut?",
+    "options": [
+      "Memanfaatkan kekuasaan untuk keuntungan pribadi tanpa memperhatikan konsekuensinya",
+      "Menarik diri dari tanggung jawab dan tidak menggunakan kekuasaan yang diberikan",
+      "Menggunakan kekuasaan dengan bijaksana untuk kepentingan bersama",
+      "Menggunakan kekuasaan untuk mengintimidasi orang lain dan memaksakan kehendak Anda"
+    ],
+    "answer": "Menggunakan kekuasaan dengan bijaksana untuk kepentingan bersama"
+  },
+  {
+    "question": "Anda berada dalam situasi di mana Anda harus bekerja sama dengan orang yang memiliki pendapat atau nilai yang bertentangan dengan Anda. Bagaimana Anda menangani kolaborasi ini?",
+    "options": [
+      "Menghindari kolaborasi tersebut dengan mencari alasan untuk tidak bekerja sama",
+      "Mengabaikan perbedaan dan tetap fokus pada tujuan bersama",
+      "Mencoba memahami sudut pandang mereka dan mencari kesamaan",
+      "Menghadapi konflik secara langsung dan menolak untuk bekerja sama dengan mereka"
+    ],
+    "answer": "Mencoba memahami sudut pandang mereka dan mencari kesamaan"
+  },
+  {
+    "question": "Anda berada dalam situasi di mana Anda diberi kesempatan untuk memilih antara keuntungan pribadi dan kebaikan umum. Bagaimana Anda membuat keputusan?",
+    "options": [
+      "Menghindari membuat keputusan dan berharap situasi tersebut akan diselesaikan dengan sendirinya",
+      "Mempertimbangkan konsekuensi jangka panjang dan memilih yang terbaik untuk semua pihak yang terlibat",
+      "Memilih yang memberikan keuntungan pribadi tanpa memperhatikan dampaknya",
+      "Mengorbankan kepentingan pribadi demi kebaikan umum tanpa mempertimbangkan diri sendiri"
+    ],
+    "answer": "Mempertimbangkan konsekuensi jangka panjang dan memilih yang terbaik untuk semua pihak yang terlibat"
+  }
+]

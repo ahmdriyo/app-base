@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Apa yang paling sering menggambarkan perilaku Anda dalam situasi sosial?",
+    "options": ["Mendominasi percakapan", "Mendengarkan dengan cermat", "Menjaga jarak", "Tidak terlibat"],
+    "answer": "Mendengarkan dengan cermat"
+  },
+  {
+    "question": "Ketika menghadapi masalah, Anda cenderung?",
+    "options": ["Mencari solusi secara mandiri", "Mencari saran dari orang lain", "Menyembunyikan masalah", "Menunda penyelesaian"],
+    "answer": "Mencari saran dari orang lain"
+  },
+  {
+    "question": "Bagaimana Anda menghabiskan waktu luang Anda?",
+    "options": ["Bersosialisasi dengan banyak orang", "Menghabiskan waktu dengan keluarga dan teman dekat", "Menikmati kesendirian", "Terlibat dalam aktivitas fisik"],
+    "answer": "Menikmati kesendirian"
+  },
+  {
+    "question": "Saat berada dalam kelompok, peran Anda biasanya adalah?",
+    "options": ["Pemimpin", "Pengikut", "Pengamat", "Pelawak"],
+    "answer": "Pemimpin"
+  },
+  {
+    "question": "Bagaimana Anda merespon kritik?",
+    "options": ["Menerima dengan baik dan belajar dari mereka", "Membela diri secara agresif", "Merasa terluka dan tersinggung", "Mengabaikannya dan melanjutkan"],
+    "answer": "Menerima dengan baik dan belajar dari mereka"
+  },
+  {
+    "question": "Apa yang Anda pikirkan tentang perubahan yang tidak terduga dalam rencana?",
+    "options": ["Menyukai tantangan baru", "Merasa tidak nyaman dan cemas", "Bersikap fleksibel dan beradaptasi", "Mengalami kebingungan dan kehilangan fokus"],
+    "answer": "Bersikap fleksibel dan beradaptasi"
+  },
+  {
+    "question": "Bagaimana Anda menghadapi stres?",
+    "options": ["Mencari bantuan dari orang-orang terdekat", "Menjalani aktivitas fisik atau olahraga", "Menarik diri dan mengisolasi diri", "Menggunakan strategi penenangan diri seperti meditasi atau pernapasan dalam"],
+    "answer": "Menggunakan strategi penenangan diri seperti meditasi atau pernapasan dalam"
+  },
+  {
+    "question": "Apa yang Anda cari dalam sebuah hubungan?",
+    "options": ["Kekompakan dan kesetiaan", "Keintiman emosional", "Kesamaan minat dan hobi", "Kemandirian dan kebebasan"],
+    "answer": "Keintiman emosional"
+  },
+  {
+    "question": "Bagaimana Anda menangani konflik?",
+    "options": ["Mencari solusi yang kompromi", "Menghindari konflik sebisa mungkin", "Menghadapi konflik secara langsung dan terbuka", "Mengambil sisi yang dominan"],
+    "answer": "Menghadapi konflik secara langsung dan terbuka"
+  },
+  {
+    "question": "Bagaimana cara Anda merayakan kesuksesan?",
+    "options": ["Merayakannya dengan orang-orang terdekat", "Menetapkan target baru", "Menghabiskan waktu untuk bersantai dan merenung", "Tidak merasa perlu merayakannya"],
+    "answer": "Merayakannya dengan orang-orang terdekat"
+  },
+  {
+    "question": "Ketika dihadapkan pada tugas yang membosankan, Anda cenderung?",
+    "options": ["Menyelesaikannya secepat mungkin", "Menghindarinya sampai tidak bisa lagi", "Menemukan cara untuk membuatnya lebih menarik", "Melakukan dengan kurang antusias"],
+    "answer": "Menemukan cara untuk membuatnya lebih menarik"
+  },
+  {
+    "question": "Bagaimana Anda menilai diri sendiri?",
+    "options": ["Kritis dan selalu ingin memperbaiki diri", "Percaya diri dan optimis", "Meragukan diri sendiri dan sering merasa tidak cukup", "Tidak terlalu memikirkan tentang diri sendiri"],
+    "answer": "Kritis dan selalu ingin memperbaiki diri"
+  },
+  {
+    "question": "Apa yang Anda lakukan ketika merasa sedih atau tertekan?",
+    "options": ["Mencari dukungan dari orang lain", "Menyimpan perasaan untuk diri sendiri", "Mengalihkan perhatian dengan aktivitas lain", "Merenung sendiri"],
+    "answer": "Mencari dukungan dari orang lain"
+  },
+  {
+    "question": "Bagaimana cara Anda mengatasi rasa takut?",
+    "options": ["Menghadapinya dan mengatasi secara bertahap", "Mengabaikannya dan berharap akan hilang dengan sendirinya", "Menyembunyikan rasa takut dari orang lain", "Mencari distraksi agar tidak memikirkannya"],
+    "answer": "Menghadapinya dan mengatasi secara bertahap"
+  },
+  {
+    "question": "Saat menghadapi masalah besar, Anda cenderung?",
+    "options": ["Mencari solusi secara sistematis", "Mencari dukungan emosional", "Menghindari masalah", "Melakukan apa pun agar masalah selesai"],
+    "answer": "Mencari dukungan emosional"
+  },
+  {
+    "question": "Bagaimana Anda berperilaku ketika dalam situasi stres?",
+    "options": ["Tetap tenang dan berpikir jernih", "Menjadi mudah marah dan emosional", "Mengabaikan masalah", "Merasa putus asa dan tidak mampu mengatasi"],
+    "answer": "Tetap tenang dan berpikir jernih"
+  },
+  {
+    "question": "Bagaimana cara Anda mendeskripsikan diri Anda dalam lingkungan kerja?",
+    "options": ["Pekerja keras dan berdedikasi", "Kolaboratif dan komunikatif", "Kreatif dan inovatif", "Mandiri dan efisien"],
+    "answer": "Pekerja keras dan berdedikasi"
+  },
+  {
+    "question": "Apa yang membuat Anda merasa paling bahagia?",
+    "options": ["Meraih kesuksesan dalam pekerjaan atau prestasi", "Hubungan yang kuat dengan orang-orang terdekat", "Melakukan aktivitas yang membuat Anda merasa hidup", "Kesempatan untuk belajar dan tumbuh"],
+    "answer": "Hubungan yang kuat dengan orang-orang terdekat"
+  },
+  {
+    "question": "Bagaimana cara Anda mengatasi kegagalan?",
+    "options": ["Menggunakan kegagalan sebagai pelajaran untuk tumbuh", "Merasa putus asa dan kehilangan motivasi", "Menyalahkan diri sendiri atau orang lain", "Mengabaikan kegagalan dan berpura-pura semuanya baik-baik saja"],
+    "answer": "Menggunakan kegagalan sebagai pelajaran untuk tumbuh"
+  },
+  {
+    "question": "Apa yang menjadi prioritas utama dalam hidup Anda?",
+    "options": ["Kesuksesan karier", "Kesejahteraan keluarga", "Pengembangan diri", "Kehidupan sosial yang aktif"],
+    "answer": "Kesejahteraan keluarga"
+  }
+]

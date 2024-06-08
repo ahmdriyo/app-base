@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Ketika ada acara sosial, di mana Anda cenderung menemukan diri Anda?",
+    "options": ["Di tengah kerumunan, berbincang-bincang dengan banyak orang", "Di sudut ruangan, mengamati orang lain", "Berinteraksi dengan semua orang dengan antusiasme", "Berbicara dengan beberapa teman dekat"],
+    "answer": "Di tengah kerumunan, berbincang-bincang dengan banyak orang"
+  },
+  {
+    "question": "Apa yang biasanya Anda lakukan saat merasa bosan dan ingin bersosialisasi?",
+    "options": ["Menghubungi teman untuk mengatur pertemuan atau aktivitas bersama", "Membaca buku atau menonton film di rumah", "Menghabiskan waktu di luar rumah atau mencoba hal-hal baru", "Menjadi kreatif dengan hobi atau aktivitas yang menyenangkan"],
+    "answer": "Menghubungi teman untuk mengatur pertemuan atau aktivitas bersama"
+  },
+  {
+    "question": "Bagaimana cara Anda merespons ketika ada kesempatan untuk terlibat dalam percakapan atau diskusi di pertemuan?",
+    "options": ["Langsung mengambil peran aktif dan berbicara dengan antusiasme", "Mendengarkan dengan seksama dan menyumbangkan pendapat saat diperlukan", "Menunggu untuk berbicara sampai diminta atau situasi membutuhkan", "Merasa canggung dan cenderung menghindari interaksi"],
+    "answer": "Langsung mengambil peran aktif dan berbicara dengan antusiasme"
+  },
+  {
+    "question": "Bagaimana Anda menanggapi undangan untuk menghadiri acara besar atau pesta?",
+    "options": ["Sangat senang dan antusias untuk bergabung", "Tidak terlalu bersemangat tetapi bersedia untuk menghadiri", "Menghindari acara tersebut atau mencari alasan untuk tidak hadir", "Datang tetapi lebih suka menghabiskan waktu dengan kelompok kecil"],
+    "answer": "Sangat senang dan antusias untuk bergabung"
+  },
+  {
+    "question": "Apa yang biasanya Anda lakukan ketika diberi kesempatan untuk berinteraksi dengan orang baru?",
+    "options": ["Mengambil inisiatif untuk memulai percakapan dan mencari tahu lebih banyak tentang mereka", "Menyapa dengan ramah dan berusaha memperkenalkan diri", "Menunggu orang lain untuk mendekati Anda dan memulai pembicaraan", "Merasa canggung dan cenderung menghindari kontak mata"],
+    "answer": "Mengambil inisiatif untuk memulai percakapan dan mencari tahu lebih banyak tentang mereka"
+  },
+  {
+    "question": "Bagaimana cara Anda merespons jika ada undangan untuk pergi ke pesta atau acara bersama?",
+    "options": ["Menerima undangan dengan senang hati dan berharap bisa bersenang-senang", "Tidak terlalu bersemangat tetapi bersedia untuk menghadiri", "Menghindari acara tersebut atau mencari alasan untuk tidak hadir", "Datang tetapi lebih suka berbicara dengan kelompok kecil"],
+    "answer": "Menerima undangan dengan senang hati dan berharap bisa bersenang-senang"
+  },
+  {
+    "question": "Di mana Anda cenderung menghabiskan waktu saat istirahat di tempat kerja atau di sekolah?",
+    "options": ["Bergabung dengan rekan kerja atau teman sekelas untuk berbincang-bincang", "Menghabiskan waktu di luar ruangan atau melakukan aktivitas fisik", "Mengunjungi tempat makan atau kafe untuk bertemu dengan orang-orang", "Membawa bekal ke ruang santai dan bergabung dengan teman yang ada"],
+    "answer": "Bergabung dengan rekan kerja atau teman sekelas untuk berbincang-bincang"
+  },
+  {
+    "question": "Bagaimana Anda biasanya menanggapi undangan untuk melakukan aktivitas sosial di luar rumah?",
+    "options": ["Sangat senang dan antusias untuk bergabung", "Bersedia untuk menghadiri tetapi tidak terlalu bersemangat", "Menghindari aktivitas tersebut atau mencari alasan untuk tidak hadir", "Datang tetapi lebih suka menghabiskan waktu dengan kelompok kecil"],
+    "answer": "Sangat senang dan antusias untuk bergabung"
+  },
+  {
+    "question": "Ketika Anda berada di lingkungan baru, apa yang biasanya Anda lakukan untuk merasa lebih nyaman?",
+    "options": ["Mengambil inisiatif untuk berkenalan dengan orang-orang baru", "Menghabiskan waktu dengan orang-orang yang sudah dikenal", "Mengamati orang lain dan menyesuaikan diri dengan perlahan", "Merasa canggung dan cenderung menghindari interaksi"],
+    "answer": "Mengambil inisiatif untuk berkenalan dengan orang-orang baru"
+  },
+  {
+    "question": "Bagaimana Anda biasanya merespons ketika ada kesempatan untuk terlibat dalam permainan atau aktivitas kelompok?",
+    "options": ["Senang mengambil peran dan berusaha memenangkan permainan", "Mencoba berpartisipasi dengan antusiasme tetapi tidak terlalu bersemangat", "Menolak untuk bergabung atau mencari alasan untuk tidak ikut", "Datang tetapi lebih suka menjadi penonton atau mencari kegiatan lain"],
+    "answer": "Senang mengambil peran dan berusaha memenangkan permainan"
+  },
+  {
+    "question": "Apa yang biasanya Anda lakukan ketika diberi kesempatan untuk melakukan presentasi atau tampil di depan umum?",
+    "options": ["Mengambil inisiatif untuk tampil dan mencoba memukau audiens", "Menyiapkan materi dengan baik tetapi merasa sedikit gugup", "Menerima tawaran tersebut tetapi merasa sangat cemas atau tidak siap", "Mencoba untuk menghindari tugas tersebut atau meminta orang lain untuk menggantikan"],
+    "answer": "Mengambil inisiatif untuk tampil dan mencoba memukau audiens"
+  },
+  {
+    "question": "Bagaimana Anda biasanya berperilaku ketika dihadapkan pada situasi yang membutuhkan kepemimpinan atau menjadi pusat perhatian?",
+    "options": ["Mengambil inisiatif dan berusaha menjadi pusat perhatian", "Berpikir dua kali sebelum mengambil tindakan atau membuat keputusan", "Menyerahkan tanggung jawab kepada orang lain dan lebih suka mengikuti", "Merasa tidak nyaman dan mencoba untuk menghindari situasi tersebut"],
+    "answer": "Mengambil inisiatif dan berusaha menjadi pusat perhatian"
+  },
+  {
+    "question": "Bagaimana Anda merespons ketika diminta untuk membantu atau bekerja dalam tim di tempat kerja atau di sekolah?",
+    "options": ["Senang berkolaborasi dengan orang lain dan memberikan kontribusi", "Mencoba memberikan bantuan tetapi lebih suka bekerja sendiri", "Menolak tawaran tersebut atau mencari alasan untuk tidak ikut serta", "Datang tetapi hanya memberikan sedikit kontribusi atau tidak terlibat sepenuhnya"],
+    "answer": "Senang berkolaborasi dengan orang lain dan memberikan kontribusi"
+  },
+  {
+    "question": "Bagaimana Anda menanggapi kesempatan untuk terlibat dalam diskusi kelompok atau forum komunitas?",
+    "options": ["Suka berpartisipasi aktif dan memberikan pendapat atau ide", "Berusaha untuk terlibat tetapi merasa canggung atau tidak nyaman", "Menghindari kesempatan tersebut atau memilih untuk menjadi penonton", "Datang tetapi hanya mengamati dan mendengarkan tanpa banyak berbicara"],
+    "answer": "Suka berpartisipasi aktif dan memberikan pendapat atau ide"
+  },
+  {
+    "question": "Bagaimana cara Anda merespons ketika ada kesempatan untuk terlibat dalam aktivitas sosial di luar rumah?",
+    "options": ["Menerima undangan dengan senang hati dan berharap bisa bersenang-senang", "Bersedia untuk menghadiri tetapi tidak terlalu bersemangat", "Menghindari aktivitas tersebut atau mencari alasan untuk tidak hadir", "Datang tetapi lebih suka berbicara dengan kelompok kecil"],
+    "answer": "Menerima undangan dengan senang hati dan berharap bisa bersenang-senang"
+  },
+  {
+    "question": "Bagaimana Anda biasanya merespons ketika bertemu dengan teman atau kenalan di tempat umum?",
+    "options": ["Senang bertemu dan berbicara dengan mereka untuk beberapa waktu", "Memberikan sapaan singkat dan kemudian melanjutkan kegiatan Anda", "Merasa canggung atau tidak nyaman dan mencoba untuk menghindari interaksi", "Tidak mengenali atau mengabaikan mereka jika tidak dikenal"],
+    "answer": "Senang bertemu dan berbicara dengan mereka untuk beberapa waktu"
+  },
+  {
+    "question": "Apa yang biasanya Anda lakukan ketika merasa bosan atau ingin mencari hiburan?",
+    "options": ["Menghubungi teman atau keluarga untuk mengatur kegiatan bersama", "Menghabiskan waktu dengan aktivitas yang menyenangkan di luar rumah", "Membaca buku atau menonton film di rumah", "Mengunjungi tempat-tempat baru atau mencoba hal-hal yang berbeda"],
+    "answer": "Menghubungi teman atau keluarga untuk mengatur kegiatan bersama"
+  },
+  {
+    "question": "Bagaimana Anda biasanya merasa saat berada di tengah keramaian seperti festival atau konser?",
+    "options": ["Terangsang dan energik, menikmati suasana ramai", "Merasa nyaman dan senang berada di tengah kerumunan orang", "Merasa cemas atau tertekan dan cenderung mencari ruang yang lebih sepi", "Tergelitik tetapi juga sedikit terganggu oleh keramaian"],
+    "answer": "Terangsang dan energik, menikmati suasana ramai"
+  },
+  {
+    "question": "Ketika berbicara dengan orang asing di pesta, bagaimana cara Anda biasanya bertindak?",
+    "options": ["Mengajukan pertanyaan dan mencoba memulai percakapan", "Berbicara dengan antusiasme dan berbagi cerita atau pengalaman pribadi", "Merasa canggung tetapi mencoba untuk tetap terlibat dalam pembicaraan", "Lebih memilih untuk mendengarkan daripada berbicara banyak"],
+    "answer": "Berbicara dengan antusiasme dan berbagi cerita atau pengalaman pribadi"
+  },
+  {
+    "question": "Bagaimana cara Anda merespons ketika ada kesempatan untuk terlibat dalam kegiatan olahraga atau tim olahraga?",
+    "options": ["Senang berpartisipasi dan bersemangat untuk bersaing", "Mencoba untuk terlibat tetapi lebih memilih aktivitas yang tidak terlalu kompetitif", "Merasa tidak nyaman dengan kompetisi dan lebih suka olahraga individual", "Tidak tertarik dalam kegiatan olahraga atau tim olahraga"],
+    "answer": "Senang berpartisipasi dan bersemangat untuk bersaing"
+  }
+]

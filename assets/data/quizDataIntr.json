@@ -1,0 +1,117 @@
+[
+  {
+    "question": "Saat berada di sebuah pesta, di mana Anda cenderung menemukan diri Anda?",
+    "options": ["Di sudut ruangan, mengamati orang lain", "Di tengah-tengah kerumunan, berbincang-bincang dengan banyak orang", "Di dekat makanan atau minuman", "Berinteraksi dengan beberapa teman dekat"],
+    "answer": "Di sudut ruangan, mengamati orang lain"
+  },
+  {
+    "question": "Apa yang biasanya Anda lakukan saat membutuhkan waktu untuk diri sendiri?",
+    "options": ["Membaca buku atau mendengarkan musik", "Berbicara dengan teman dekat atau anggota keluarga", "Berjalan-jalan di luar rumah", "Mengikuti hobi atau aktivitas favorit"],
+    "answer": "Membaca buku atau mendengarkan musik"
+  },
+  {
+    "question": "Ketika Anda memiliki pertanyaan di kelas atau di pertemuan, apa yang biasanya Anda lakukan?",
+    "options": ["Menunggu sampai akhir dan bertanya secara pribadi kepada guru atau pembicara", "Langsung mengangkat tangan dan bertanya di depan kelas atau audiens", "Menulis pertanyaan Anda dan menunggu untuk bertanya setelah pertemuan", "Mengajukan pertanyaan melalui platform daring jika memungkinkan"],
+    "answer": "Menulis pertanyaan Anda dan menunggu untuk bertanya setelah pertemuan"
+  },
+  {
+    "question": "Bagaimana cara Anda menanggapi undangan untuk menghadiri acara sosial yang besar?",
+    "options": ["Menerima undangan dan berusaha menikmatinya", "Menghindari acara tersebut atau mencari alasan untuk tidak hadir", "Datang sebentar untuk memberi salam dan kemudian pergi", "Mengajak teman atau pasangan untuk menemaninya"],
+    "answer": "Datang sebentar untuk memberi salam dan kemudian pergi"
+  },
+  {
+    "question": "Di mana Anda cenderung menghabiskan waktu saat istirahat di tempat kerja atau di sekolah?",
+    "options": ["Menghabiskan waktu sendirian di ruang santai atau tempat sepi", "Berbincang-bincang dengan rekan kerja atau teman sekelas", "Membawa bekal ke luar dan menikmatinya di taman atau tempat terbuka", "Bermain game atau menggunakan media sosial di telepon seluler"],
+    "answer": "Menghabiskan waktu sendirian di ruang santai atau tempat sepi"
+  },
+  {
+    "question": "Bagaimana Anda biasanya berinteraksi dengan tetangga di lingkungan tempat tinggal Anda?",
+    "options": ["Jarang berinteraksi, tetapi siap membantu jika dibutuhkan", "Sering berbincang-bincang atau berkumpul bersama", "Lebih suka menjaga jarak dengan tetangga", "Menjalani kehidupan yang terpisah tanpa banyak interaksi"],
+    "answer": "Jarang berinteraksi, tetapi siap membantu jika dibutuhkan"
+  },
+  {
+    "question": "Apa yang biasanya Anda lakukan saat ada rencana liburan di akhir pekan?",
+    "options": ["Merencanakan perjalanan atau aktivitas bersama teman atau keluarga", "Menghabiskan waktu sendirian di rumah atau melakukan aktivitas yang disukai", "Bergabung dengan acara atau pertemuan komunitas setempat", "Tidak merencanakan apa pun, mengikuti arus dan melihat apa yang terjadi"],
+    "answer": "Menghabiskan waktu sendirian di rumah atau melakukan aktivitas yang disukai"
+  },
+  {
+    "question": "Bagaimana Anda bereaksi ketika diminta untuk bekerja dalam tim besar di tempat kerja atau di sekolah?",
+    "options": ["Mencoba berkontribusi sebanyak mungkin, tetapi memilih bekerja sendiri jika memungkinkan", "Senang bergabung dalam tim dan berkolaborasi dengan anggota tim lainnya", "Merasa tertekan dan cemas dengan tuntutan kerjasama yang besar", "Menerima situasi tersebut dengan netral, melakukan tugas yang diberikan tanpa banyak interaksi sosial"],
+    "answer": "Mencoba berkontribusi sebanyak mungkin, tetapi memilih bekerja sendiri jika memungkinkan"
+  },
+  {
+    "question": "Apa yang biasanya Anda lakukan untuk menghabiskan waktu pada malam hari setelah hari yang melelahkan?",
+    "options": ["Menonton film atau serial TV di rumah", "Mengundang teman untuk makan malam atau minum bersama", "Berolahraga atau melakukan aktivitas fisik", "Menghabiskan waktu di kafe atau tempat yang nyaman untuk bersantai dan menikmati suasana"],
+    "answer": "Menonton film atau serial TV di rumah"
+  },
+  {
+    "question": "Ketika menghadiri rapat atau acara di tempat kerja atau di sekolah, di mana Anda cenderung duduk?",
+    "options": ["Di belakang ruangan, dekat pintu keluar", "Di baris depan atau di dekat pembicara", "Di tengah-tengah ruangan agar bisa berinteraksi dengan semua orang", "Di samping teman atau rekan kerja yang dikenal"],
+    "answer": "Di belakang ruangan, dekat pintu keluar"
+  },
+  {
+    "question": "Bagaimana cara Anda merespons permintaan untuk bergabung dengan klub atau organisasi di tempat kerja atau di sekolah?",
+    "options": ["Menolak dengan sopan dan menyatakan keterbatasan waktu", "Menerima dengan senang hati dan mencoba untuk aktif berpartisipasi", "Mencari alasan untuk menunda bergabung atau mengikuti", "Memperhatikan tetapi tidak melakukan tindakan apapun"],
+    "answer": "Menolak dengan sopan dan menyatakan keterbatasan waktu"
+  },
+  {
+    "question": "Apa yang biasanya Anda lakukan saat perlu berbicara di telepon dengan orang yang tidak dikenal?",
+    "options": ["Merasa canggung tetapi mencoba berbicara dengan sopan", "Menjawab dengan tegas dan berkomunikasi dengan jelas", "Menghindari panggilan dan memilih untuk tidak menjawab", "Memberikan informasi singkat dan segera mengakhiri panggilan"],
+    "answer": "Merasa canggung tetapi mencoba berbicara dengan sopan"
+  },
+  {
+    "question": "Bagaimana Anda menanggapi undangan untuk menghadiri acara kantor atau sekolah di akhir pekan?",
+    "options": ["Mencoba untuk datang tetapi meninggalkan acara sebelum larut malam", "Berencana untuk menghadiri acara dan terlibat dalam aktivitas yang diadakan", "Menghindari acara tersebut atau mencari alasan untuk tidak hadir", "Mengikuti acara tetapi tidak terlalu banyak berinteraksi dengan orang lain"],
+    "answer": "Mencoba untuk datang tetapi meninggalkan acara sebelum larut malam"
+  },
+  {
+    "question": "Bagaimana Anda merespons ketika teman atau anggota keluarga mengajak Anda untuk berpartisipasi dalam aktivitas sosial di luar rumah?",
+    "options": ["Menolak secara halus dan mencoba menghindari aktivitas tersebut", "Menerima undangan dengan senang hati dan berharap bisa bersenang-senang", "Datang tetapi lebih suka berdiam diri di sepanjang acara", "Mencoba untuk datang tetapi merasa cemas atau tidak nyaman selama aktivitas tersebut berlangsung"],
+    "answer": "Menolak secara halus dan mencoba menghindari aktivitas tersebut"
+  },
+  {
+    "question": "Apakah Anda sering merasa terganggu atau cemas jika harus menghadapi situasi sosial yang baru atau tidak terduga?",
+    "options": ["Ya, saya sering merasa cemas atau terganggu", "Tidak, saya biasanya bisa menyesuaikan diri dengan baik", "Terkadang, tergantung pada situasinya", "Tidak tahu"],
+    "answer": "Ya, saya sering merasa cemas atau terganggu"
+  },
+  {
+    "question": "Bagaimana cara Anda biasanya merespons ketika teman atau rekan kerja meminta bantuan atau nasihat?",
+    "options": ["Membantu jika memungkinkan, tetapi lebih suka memberikan dukungan secara tidak langsung", "Mengajukan pertanyaan untuk memahami situasi dan memberikan saran jika diminta", "Menyediakan bantuan langsung dan berusaha menyelesaikan masalah secepat mungkin", "Menyarankan untuk mencari bantuan dari sumber lain"],
+    "answer": "Membantu jika memungkinkan, tetapi lebih suka memberikan dukungan secara tidak langsung"
+  },
+  {
+    "question": "Bagaimana Anda biasanya merespons ketika ada perubahan rencana yang tiba-tiba atau situasi yang tidak terduga?",
+    "options": ["Merasa terganggu atau frustrasi tetapi mencoba untuk menyesuaikan diri", "Menerima perubahan dengan tenang dan mencari solusi", "Mengalami stres dan sulit menyesuaikan diri dengan perubahan tersebut", "Menghindari perubahan dan mencoba mempertahankan rencana asli"],
+    "answer": "Merasa terganggu atau frustrasi tetapi mencoba untuk menyesuaikan diri"
+  },
+  {
+    "question": "Bagaimana Anda biasanya merespons ketika ditugaskan untuk proyek atau tugas kelompok di tempat kerja atau di sekolah?",
+    "options": ["Berusaha bekerja sendiri sebanyak mungkin dan menyatukan kontribusi di akhir", "Berpikir tentang bagaimana membagi tugas dan berkolaborasi dengan anggota tim", "Mengambil peran kepemimpinan dan memimpin tim menuju tujuan", "Menghindari tugas kelompok dan mencoba untuk mengerjakannya sendiri"],
+    "answer": "Berusaha bekerja sendiri sebanyak mungkin dan menyatukan kontribusi di akhir"
+  },
+  {
+    "question": "Bagaimana perasaan Anda ketika harus menghadiri acara sosial yang besar dengan banyak orang yang tidak dikenal?",
+    "options": ["Merasa cemas atau tidak nyaman dengan situasi tersebut", "Cenderung menghindari situasi tersebut atau mencari alasan untuk tidak hadir", "Bersemangat dan antusias untuk bertemu dengan orang baru", "Merasa sedikit gugup tetapi bersedia mencoba berinteraksi"],
+    "answer": "Merasa cemas atau tidak nyaman dengan situasi tersebut"
+  },
+  {
+    "question": "Apa yang biasanya Anda lakukan saat merasa lelah atau membutuhkan waktu untuk diri sendiri?",
+    "options": ["Mencari kesempatan untuk bersantai sendirian di tempat yang tenang", "Menghabiskan waktu dengan teman atau keluarga untuk menghilangkan stres", "Mencari kegiatan luar ruangan atau hiburan untuk mengalihkan perhatian", "Tidak merasa terlalu butuh waktu untuk diri sendiri"],
+    "answer": "Mencari kesempatan untuk bersantai sendirian di tempat yang tenang"
+  },
+  {
+    "question": "Bagaimana Anda biasanya menanggapi permintaan untuk terlibat dalam percakapan atau diskusi kelompok?",
+    "options": ["Cenderung mendengarkan daripada banyak berbicara", "Mengambil peran aktif dan berusaha berkontribusi", "Merasa tidak nyaman dan cenderung menghindari situasi tersebut", "Berbicara dengan antusiasme tetapi hanya jika diminta"],
+    "answer": "Cenderung mendengarkan daripada banyak berbicara"
+  },
+  {
+    "question": "Ketika diberi pilihan antara menghabiskan waktu sendiri di rumah atau pergi ke pesta, apa yang biasanya Anda pilih?",
+    "options": ["Lebih memilih waktu sendiri di rumah untuk bersantai atau mengejar hobi", "Sangat senang untuk bergabung dengan pesta dan bertemu dengan banyak orang", "Menerima undangan pesta tetapi merasa tidak terlalu bersemangat", "Tergelitik tetapi memilih untuk tetap di rumah"],
+    "answer": "Lebih memilih waktu sendiri di rumah untuk bersantai atau mengejar hobi"
+  },
+  {
+    "question": "Bagaimana Anda biasanya bereaksi terhadap situasi yang memerlukan interaksi sosial intensif atau jangka panjang?",
+    "options": ["Merasa lelah atau terkuras energinya setelahnya", "Menemukan waktu untuk menyendiri dan mendapatkan kembali energi", "Mengalami kegembiraan dan terinspirasi oleh interaksi tersebut", "Tidak merasa terlalu terpengaruh oleh interaksi sosial tersebut"],
+    "answer": "Merasa lelah atau terkuras energinya setelahnya"
+  }
+]

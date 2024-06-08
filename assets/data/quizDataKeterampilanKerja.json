@@ -1,0 +1,197 @@
+[
+  {
+    "question": "Apakah yang dimaksud dengan 'deadline' dalam konteks pekerjaan?",
+    "options": ["Waktu yang diberikan untuk istirahat", "Waktu terakhir untuk menyelesaikan tugas", "Waktu yang diperlukan untuk presentasi", "Waktu yang digunakan untuk rapat"],
+    "answer": "Waktu terakhir untuk menyelesaikan tugas"
+  },
+  {
+    "question": "Apa yang Anda lakukan jika Anda menemui kendala dalam menyelesaikan tugas di tengah jalan?",
+    "options": ["Menyembunyikan kendala tersebut dari atasan", "Mengalihkan tanggung jawab kepada rekan kerja", "Meminta bantuan atau saran kepada atasan atau rekan kerja", "Menyelesaikan tugas tersebut tanpa memperhatikan kendala"],
+    "answer": "Meminta bantuan atau saran kepada atasan atau rekan kerja"
+  },
+  {
+    "question": "Bagaimana Anda menyelesaikan konflik dengan rekan kerja?",
+    "options": ["Menghindari rekan kerja tersebut", "Berdebat secara terbuka di tempat kerja", "Mencari solusi yang memuaskan bagi kedua belah pihak", "Mengabaikan konflik tersebut"],
+    "answer": "Mencari solusi yang memuaskan bagi kedua belah pihak"
+  },
+  {
+    "question": "Apa yang Anda lakukan jika Anda menemui masalah teknis yang tidak dapat Anda selesaikan sendiri?",
+    "options": ["Menunda penyelesaian tugas tersebut", "Membuat asumsi untuk menyelesaikan masalah", "Mencari sumber daya atau informasi yang diperlukan", "Menyerah dan menyerahkan tugas kepada orang lain"],
+    "answer": "Mencari sumber daya atau informasi yang diperlukan"
+  },
+  {
+    "question": "Bagaimana Anda menanggapi umpan balik kritis dari atasan atau rekan kerja?",
+    "options": ["Merasa terancam dan menolak untuk berubah", "Mengabaikan umpan balik tersebut", "Menerima umpan balik tersebut sebagai kesempatan untuk belajar dan berkembang", "Mengkritik balik atasan atau rekan kerja"],
+    "answer": "Menerima umpan balik tersebut sebagai kesempatan untuk belajar dan berkembang"
+  },
+  {
+    "question": "Apa yang Anda lakukan jika Anda menemukan cara baru yang lebih efisien untuk menyelesaikan tugas yang rutin?",
+    "options": ["Menyimpan informasi tersebut untuk diri sendiri", "Menggunakan cara lama karena sudah terbiasa", "Berbagi ide dengan rekan kerja atau atasan", "Menyembunyikan ide tersebut agar tidak diambil oleh orang lain"],
+    "answer": "Berbagi ide dengan rekan kerja atau atasan"
+  },
+  {
+    "question": "Bagaimana Anda mengatur waktu Anda saat memiliki beberapa tugas yang harus diselesaikan?",
+    "options": ["Mengerjakan tugas sesuai urutan yang disukai", "Mengerjakan tugas sesuai dengan tenggat waktu yang ditetapkan", "Mengerjakan tugas sesuai dengan mood yang sedang dirasakan", "Mengerjakan tugas tanpa perencanaan"],
+    "answer": "Mengerjakan tugas sesuai dengan tenggat waktu yang ditetapkan"
+  },
+  {
+    "question": "Bagaimana cara Anda menghadapi situasi di mana Anda tidak sepenuhnya memahami tugas yang diberikan?",
+    "options": ["Menyembunyikan ketidakpahaman Anda", "Mencoba menyelesaikan tugas tersebut dengan mengandalkan tebakan", "Meminta penjelasan tambahan atau klarifikasi dari atasan", "Mengalihkan tanggung jawab kepada orang lain"],
+    "answer": "Meminta penjelasan tambahan atau klarifikasi dari atasan"
+  },
+  {
+    "question": "Bagaimana Anda mengelola stres di tempat kerja?",
+    "options": ["Mengabaikan stres tersebut", "Menggunakan cara yang tidak sehat untuk mengatasi stres", "Mencari dukungan dari rekan kerja atau atasan", "Menghindari tanggung jawab untuk mengurangi stres"],
+    "answer": "Mencari dukungan dari rekan kerja atau atasan"
+  },
+  {
+    "question": "Apa yang Anda lakukan jika Anda membuat kesalahan yang signifikan dalam pekerjaan Anda?",
+    "options": ["Menutupi kesalahan tersebut", "Menyalahkan orang lain atas kesalahan tersebut", "Mengambil tanggung jawab atas kesalahan tersebut dan mencari solusi", "Melanjutkan pekerjaan tanpa memperbaiki kesalahan"],
+    "answer": "Mengambil tanggung jawab atas kesalahan tersebut dan mencari solusi"
+  },
+  {
+    "question": "Bagaimana cara Anda mengatur prioritas ketika memiliki banyak tugas yang harus diselesaikan?",
+    "options": ["Menyelesaikan tugas sesuai dengan urutan kesulitan", "Menyelesaikan tugas sesuai dengan urutan favorit", "Menyelesaikan tugas yang paling mudah terlebih dahulu", "Menyelesaikan tugas sesuai dengan permintaan atasan"],
+    "answer": "Menyelesaikan tugas sesuai dengan urutan kesulitan"
+  },
+  {
+    "question": "Apa yang Anda lakukan jika Anda mendapati bahwa Anda tidak memiliki keterampilan yang diperlukan untuk menyelesaikan tugas?",
+    "options": ["Menyembunyikan keterbatasan Anda", "Menyerah dan tidak mencoba menyelesaikan tugas", "Mencari pelatihan atau sumber daya untuk mengembangkan keterampilan tersebut", "Mengalihkan tugas kepada rekan kerja yang lebih kompeten"],
+    "answer": "Mencari pelatihan atau sumber daya untuk mengembangkan keterampilan tersebut"
+  },
+  {
+    "question": "Apa yang Anda lakukan jika Anda tidak setuju dengan keputusan atasan Anda?",
+    "options": ["Mengabaikan keputusan tersebut", "Mengkritik atasan secara terbuka di tempat kerja", "Menerima keputusan tersebut dan berusaha untuk melaksanakannya", "Mengambil tindakan sendiri tanpa mempertimbangkan keputusan atasan"],
+    "answer": "Menerima keputusan tersebut dan berusaha untuk melaksanakannya"
+  },
+  {
+    "question": "Bagaimana Anda menyeimbangkan antara kualitas dan kecepatan dalam menyelesaikan tugas?",
+    "options": ["Mengutamakan kecepatan tanpa memperhatikan kualitas", "Mengorbankan kecepatan untuk memastikan kualitas yang tinggi", "Mengabaikan kedua faktor tersebut", "Mengorbankan kualitas untuk menyelesaikan tugas dengan cepat"],
+    "answer": "Mengorbankan kecepatan untuk memastikan kualitas yang tinggi"
+  },
+  {
+    "question": "Bagaimana cara Anda menyusun jadwal harian Anda untuk memastikan produktivitas?",
+    "options": ["Membuat jadwal yang fleksibel tanpa batasan waktu", "Mengabaikan jadwal dan menyelesaikan tugas sesuai keinginan", "Mengatur jadwal dengan prioritas dan batasan waktu untuk setiap tugas", "Mengandalkan ingatan untuk menyelesaikan tugas tanpa jadwal yang terorganisir"],
+    "answer": "Mengatur jadwal dengan prioritas dan batasan waktu untuk setiap tugas"
+  },
+  {
+    "question": "Bagaimana Anda menyelesaikan tugas yang memiliki tenggat waktu yang ketat?",
+    "options": ["Menunda penyelesaian tugas sampai mendekati batas waktu", "Mengambil jeda singkat dan menyelesaikan tugas dengan cepat", "Mengabaikan tenggat waktu dan menyelesaikan tugas dengan santai", "Merencanakan dengan cermat dan bekerja sesuai jadwal untuk menyelesaikan tugas tepat waktu"],
+    "answer": "Merencanakan dengan cermat dan bekerja sesuai jadwal untuk menyelesaikan tugas tepat waktu"
+  },
+  {
+    "question": "Bagaimana cara Anda mengelola proyek besar yang melibatkan banyak tim dan berbagai aspek?",
+    "options": ["Mengabaikan koordinasi tim dan membiarkan setiap anggota tim bekerja sendiri-sendiri", "Mengawasi setiap langkah dan mengambil alih kendali penuh atas proyek", "Membuat rencana proyek yang terperinci dan mengkoordinasikan tim dengan baik", "Mengalihkan tanggung jawab kepada rekan kerja lain dan menghindari keterlibatan dalam proyek"],
+    "answer": "Membuat rencana proyek yang terperinci dan mengkoordinasikan tim dengan baik"
+  },
+  {
+    "question": "Bagaimana Anda menilai keberhasilan diri Anda dalam menyelesaikan sebuah proyek?",
+    "options": ["Mengabaikan hasil dan fokus pada proses", "Mengukur keberhasilan berdasarkan apakah proyek diselesaikan tepat waktu", "Mengukur keberhasilan berdasarkan pujian dari atasan atau rekan kerja", "Mengukur keberhasilan berdasarkan apakah proyek mencapai tujuan yang ditetapkan"],
+    "answer": "Mengukur keberhasilan berdasarkan apakah proyek mencapai tujuan yang ditetapkan"
+  },
+  {
+    "question": "Apa yang Anda lakukan jika Anda diberi tugas yang tidak sesuai dengan keterampilan atau minat Anda?",
+    "options": ["Menolak tugas tersebut", "Menjalankan tugas tersebut tanpa komitmen", "Menggunakan kesempatan tersebut untuk belajar hal baru", "Menyerahkan tugas tersebut kepada orang lain"],
+    "answer": "Menggunakan kesempatan tersebut untuk belajar hal baru"
+  },
+  {
+    "question": "Apa yang dimaksud dengan multitasking dalam lingkungan kerja?",
+    "options": [
+      "Kemampuan untuk melakukan banyak tugas sekaligus dengan efisien",
+      "Kemampuan untuk fokus pada satu tugas pada satu waktu",
+      "Kemampuan untuk berkomunikasi dengan rekan kerja",
+      "Kemampuan untuk mengelola stres di tempat kerja"
+    ],
+    "answer": "Kemampuan untuk melakukan banyak tugas sekaligus dengan efisien"
+  },
+  {
+    "question": "Apa yang dimaksud dengan keterampilan interpersonal?",
+    "options": [
+      "Kemampuan untuk menggunakan perangkat lunak tertentu",
+      "Kemampuan untuk berinteraksi dan bekerja sama dengan orang lain",
+      "Kemampuan untuk menyelesaikan masalah teknis",
+      "Kemampuan untuk membuat presentasi yang efektif"
+    ],
+    "answer": "Kemampuan untuk berinteraksi dan bekerja sama dengan orang lain"
+  },
+  {
+    "question": "Bagaimana Anda mendefinisikan pemecahan masalah dalam konteks kerja?",
+    "options": [
+      "Kemampuan untuk menyelesaikan konflik antara rekan kerja",
+      "Kemampuan untuk mengidentifikasi masalah dan menemukan solusinya",
+      "Kemampuan untuk menyelesaikan tugas dengan cepat",
+      "Kemampuan untuk mengelola waktu dengan efisien"
+    ],
+    "answer": "Kemampuan untuk mengidentifikasi masalah dan menemukan solusinya"
+  },
+  {
+    "question": "Apa yang dimaksud dengan adaptabilitas dalam konteks pekerjaan?",
+    "options": [
+      "Kemampuan untuk menyesuaikan diri dengan perubahan lingkungan kerja",
+      "Kemampuan untuk berkomunikasi secara efektif dengan rekan kerja",
+      "Kemampuan untuk mencapai target penjualan",
+      "Kemampuan untuk menghasilkan laporan keuangan yang akurat"
+    ],
+    "answer": "Kemampuan untuk menyesuaikan diri dengan perubahan lingkungan kerja"
+  },
+  {
+    "question": "Apa yang dimaksud dengan etika kerja?",
+    "options": [
+      "Kemampuan untuk bekerja dengan cepat dan efisien",
+      "Kemampuan untuk mematuhi aturan dan norma-norma perusahaan",
+      "Kemampuan untuk membuat keputusan strategis",
+      "Kemampuan untuk berkomunikasi dengan jelas dan efektif"
+    ],
+    "answer": "Kemampuan untuk mematuhi aturan dan norma-norma perusahaan"
+  },
+  {
+    "question": "Apa yang dimaksud dengan kreativitas di tempat kerja?",
+    "options": [
+      "Kemampuan untuk mengeksekusi rencana kerja",
+      "Kemampuan untuk berpikir kritis dan analitis",
+      "Kemampuan untuk menghasilkan ide-ide baru dan inovatif",
+      "Kemampuan untuk mengelola proyek dengan baik"
+    ],
+    "answer": "Kemampuan untuk menghasilkan ide-ide baru dan inovatif"
+  },
+  {
+    "question": "Bagaimana Anda mendefinisikan kepemimpinan dalam konteks kerja?",
+    "options": [
+      "Kemampuan untuk mengorganisir waktu dengan baik",
+      "Kemampuan untuk memimpin dan memotivasi tim",
+      "Kemampuan untuk menyelesaikan tugas tepat waktu",
+      "Kemampuan untuk mengelola keuangan perusahaan dengan baik"
+    ],
+    "answer": "Kemampuan untuk memimpin dan memotivasi tim"
+  },
+  {
+    "question": "Apa yang dimaksud dengan tanggung jawab dalam konteks pekerjaan?",
+    "options": [
+      "Kemampuan untuk memberikan presentasi yang menarik",
+      "Kemampuan untuk mengelola konflik di tempat kerja",
+      "Kemampuan untuk memenuhi tugas dan kewajiban dengan baik",
+      "Kemampuan untuk berkomunikasi dengan berbagai pihak terkait"
+    ],
+    "answer": "Kemampuan untuk memenuhi tugas dan kewajiban dengan baik"
+  },
+  {
+    "question": "Apa yang dimaksud dengan kolaborasi di tempat kerja?",
+    "options": [
+      "Kemampuan untuk bersaing dengan rekan kerja",
+      "Kemampuan untuk berkomunikasi secara efektif dengan klien",
+      "Kemampuan untuk bekerja sama dan berbagi ide dengan orang lain",
+      "Kemampuan untuk mengevaluasi kinerja tim"
+    ],
+    "answer": "Kemampuan untuk bekerja sama dan berbagi ide dengan orang lain"
+  },
+  {
+    "question": "Apa yang dimaksud dengan ketekunan dalam konteks pekerjaan?",
+    "options": [
+      "Kemampuan untuk mencapai tujuan perusahaan",
+      "Kemampuan untuk mengatasi rintangan dan tetap fokus pada tujuan",
+      "Kemampuan untuk beradaptasi dengan perubahan di lingkungan kerja",
+      "Kemampuan untuk memotivasi diri sendiri dan rekan kerja"
+    ],
+    "answer": "Kemampuan untuk mengatasi rintangan dan tetap fokus pada tujuan"
+  }
+]

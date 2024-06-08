@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "app-base",
-    "slug": "app-base",
+    "name": "10 Tes Psikologi",
+    "slug": "10-tes-psikologis",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -14,17 +14,25 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.ahmd_riyo.appbase"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
-    }
+      "favicon": "./assets/icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5b471b12-0d82-414b-8609-96fd3c7d309b"
+      }
+    },
+    "owner": "ahmd_riyo"
   }
 }

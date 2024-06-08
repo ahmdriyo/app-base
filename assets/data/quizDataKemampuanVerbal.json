@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Apa arti dari kata 'abstrak'?",
+    "options": ["Tidak konkret", "Rumit", "Dihargai", "Berbahaya"],
+    "answer": "Tidak konkret"
+  },
+  {
+    "question": "Apakah lawan kata dari kata 'sempurna'?",
+    "options": ["Buruk", "Normal", "Sangat Sempurna", "Tidak sempurna"],
+    "answer": "Tidak sempurna"
+  },
+  {
+    "question": "Jika seseorang berbicara 'dengan nada tinggi', apa maksudnya ?",
+    "options": ["Mengucapkan dengan keras", "Mengucapkan dengan lembut", "Mengucapkan dengan suara tinggi", "Mengucapkan dengan suara rendah"],
+    "answer": "Mengucapkan dengan suara tinggi"
+  },
+  {
+    "question": "Apakah makna dari kata 'kontradiktif'?",
+    "options": ["Sama", "Tidak kontradiktif", "Berlawanan", "Mudah dipahami"],
+    "answer": "Berlawanan"
+  },
+  {
+    "question": "Apa sinonim dari kata 'berlimpah'?",
+    "options": ["Terbatas", "Banyak", "Sedikit", "Kurang"],
+    "answer": "Banyak"
+  },
+  {
+    "question": "Bagaimana Anda mengartikan frase 'pergi ke perempatan'?",
+    "options": ["Berbelok ke kanan", "Berbelok ke kiri", "Melanjutkan lurus", "Berhenti sejenak"],
+    "answer": "Berhenti sejenak"
+  },
+  {
+    "question": "Apakah arti dari 'terhormat'?",
+    "options": ["Tidak jujur", "Terbuka", "Dihargai", "Tidak menghormati"],
+    "answer": "Dihargai"
+  },
+  {
+    "question": "Apakah lawan kata dari 'sepenuhnya'?",
+    "options": ["Sebagian", "Kecil", "Sepenuhnya", "Tidak sama sekali"],
+    "answer": "Sebagian"
+  },
+  {
+    "question": "Jika seseorang berbicara 'dengan nada rendah', apa yang dimaksud?",
+    "options": ["Mengucapkan dengan keras", "Mengucapkan dengan lembut", "Mengucapkan dengan suara tinggi", "Mengucapkan dengan suara rendah"],
+    "answer": "Mengucapkan dengan suara rendah"
+  },
+  {
+    "question": "Apakah sinonim dari kata 'melambat'?",
+    "options": ["Berhenti", "Cepat", "Tetap", "Memperlahan"],
+    "answer": "Memperlahan "
+  },
+  {
+    "question": "Apa yang dimaksud dengan 'memprediksi'?",
+    "options": ["Membuat keputusan", "Menyampaikan pendapat", "Mencari jawaban", "Mempertimbangkan kemungkinan"],
+    "answer": "Mempertimbangkan kemungkinan"
+  },
+  {
+    "question": "Apa arti dari 'mengabaikan'?",
+    "options": ["Menyadari", "Memperhatikan", "Mengacuhkan", "Memberi perhatian khusus"],
+    "answer": "Mengacuhkan"
+  },
+  {
+    "question": "Apakah sinonim dari kata 'cukup'?",
+    "options": ["Hampir tidak", "Tidak cukup", "Memadai", "Kurang"],
+    "answer": "Memadai"
+  },
+  {
+    "question": "Jika seseorang memiliki 'sikap positif', apa artinya?",
+    "options": ["Optimis", "Pessimis", "Netral", "Ragu-ragu"],
+    "answer": "Optimis"
+  },
+  {
+    "question": "Apa arti dari 'sederhana'?",
+    "options": ["Simpel", "Sulit", "Rumit", "Sederhana"],
+    "answer": "Simpel"
+  },
+  {
+    "question": "Bagaimana Anda mengartikan frase 'menyelami kedalaman'?",
+    "options": ["Mengambil sesuatu", "Menyelidiki secara menyeluruh", "Memperluas pengetahuan", "Melakukan dengan tidak berpikir"],
+    "answer": "Menyelidiki secara menyeluruh"
+  },
+  {
+    "question": "Apa sinonim dari kata 'dilupakan'?",
+    "options": ["Terlupakan", "Diingat", "Dikenang", "Tidak diingat"],
+    "answer": "Terlupakan"
+  },
+  {
+    "question": "Apakah arti dari 'menyerang'?",
+    "options": ["Bertindak dengan kekerasan", "Menunjukkan belas kasihan", "Melawan", "Berbicara dengan tenang"],
+    "answer": "Bertindak dengan kekerasan"
+  },
+  {
+    "question": "Apa yang dimaksud dengan 'membuktikan'?",
+    "options": ["Membuat spekulasi", "Menguji kebenaran", "Membuat kesimpulan", "Mengabaikan fakta"],
+    "answer": "Menguji kebenaran"
+  },
+  {
+    "question": "Apakah sinonim dari kata 'berbahaya'?",
+    "options": ["Aman", "Tidak berbahaya", "Berisiko", "Selamat"],
+    "answer": "Berisiko"
+  }
+]

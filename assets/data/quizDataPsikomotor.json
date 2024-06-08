@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Dalam urutan langkah-langkah di bawah ini, langkah mana yang harus dilakukan pertama?",
+    "options": ["Mengambil bahan-bahan", "Memasak bahan-bahan", "Mengukur bahan-bahan", "Membaca resep"],
+    "answer": "Membaca resep"
+  },
+  {
+    "question": "Dalam permainan bola basket, apa yang dilakukan terlebih dahulu sebelum melakukan tembakan?",
+    "options": ["Menjaga posisi tubuh", "Mengatur posisi kaki", "Mengarahkan mata ke keranjang", "Menggenggam bola dengan benar"],
+    "answer": "Menggenggam bola dengan benar"
+  },
+  {
+    "question": "Dalam mengikat sepatu, langkah mana yang dilakukan terakhir?",
+    "options": ["Memasukkan tali ke lubang terakhir", "Mengikat simpul", "Mengencangkan simpul", "Mengikat simpul kedua"],
+    "answer": "Mengencangkan simpul"
+  },
+  {
+    "question": "Dalam menggambar, bagian tubuh mana yang paling sering Anda gunakan?",
+    "options": ["Tangan kanan", "Tangan kiri", "Kedua tangan", "Mata"],
+    "answer": "Tangan kanan"
+  },
+  {
+    "question": "Dalam menari, langkah apa yang mungkin dilakukan terakhir dalam sebuah rutinitas tarian?",
+    "options": ["Berputar", "Melompat", "Bergerak ke samping", "Berakhir dengan pose"],
+    "answer": "Berakhir dengan pose"
+  },
+  {
+    "question": "Dalam memasak, langkah apa yang harus dilakukan terlebih dahulu sebelum menggunakan kompor?",
+    "options": ["Menyalakan kompor", "Menyiapkan bahan makanan", "Mengatur suhu", "Memastikan kawasan sekitar aman"],
+    "answer": "Memastikan kawasan sekitar aman"
+  },
+  {
+    "question": "Dalam mengendarai sepeda, apa yang harus dilakukan terlebih dahulu sebelum mulai bersepeda?",
+    "options": ["Menarik rem", "Mengatur posisi duduk", "Memakai helm", "Memeriksa sepeda"],
+    "answer": "Memakai helm"
+  },
+  {
+    "question": "Dalam mengikat tali, langkah mana yang harus dilakukan terlebih dahulu?",
+    "options": ["Membuat simpul awal", "Melakukan putaran pertama", "Membuat simpul kedua", "Mengikat simpul kedua"],
+    "answer": "Membuat simpul awal"
+  },
+  {
+    "question": "Dalam bermain piano, jari mana yang biasanya digunakan untuk menekan kunci-kunci piano?",
+    "options": ["Jari telunjuk", "Jari tengah", "Jari kelingking", "Semua jari"],
+    "answer": "Semua jari"
+  },
+  {
+    "question": "Dalam memasak, langkah apa yang harus dilakukan terakhir sebelum menyajikan makanan?",
+    "options": ["Menyajikan makanan", "Menghias hidangan", "Mengatur piring", "Mengatur meja"],
+    "answer": "Menghias hidangan"
+  },
+  {
+    "question": "Dalam menulis menggunakan pena, apa yang harus dilakukan setelah menyelesaikan tulisan?",
+    "options": ["Menekan pena lebih keras", "Menyimpan pena", "Menghapus kesalahan", "Menutup penutup pena"],
+    "answer": "Menutup penutup pena"
+  },
+  {
+    "question": "Dalam berenang gaya bebas, gerakan mana yang dilakukan terlebih dahulu setelah melompat ke air?",
+    "options": ["Mengayuh tangan", "Mengangkat kepala", "Menggerakkan kaki", "Mengatur napas"],
+    "answer": "Mengatur napas"
+  },
+  {
+    "question": "Dalam merakit perabotan, apa yang harus dilakukan terlebih dahulu?",
+    "options": ["Mengencangkan baut", "Mengatur posisi bagian", "Membaca instruksi", "Memeriksa alat yang diperlukan"],
+    "answer": "Memeriksa alat yang diperlukan"
+  },
+  {
+    "question": "Dalam bermain tenis, gerakan apa yang harus dilakukan setelah melihat bola datang?",
+    "options": ["Menggerakkan kaki", "Mengayuh raket", "Mengatur posisi tubuh", "Mengatur napas"],
+    "answer": "Mengatur posisi tubuh"
+  },
+  {
+    "question": "Dalam memasak, apa yang harus dilakukan terlebih dahulu sebelum memotong bahan makanan?",
+    "options": ["Mengasah pisau", "Mencuci tangan", "Mengukur bahan", "Mempersiapkan alas pemotongan"],
+    "answer": "Mencuci tangan"
+  },
+  {
+    "question": "Dalam menggambar, apa yang harus dilakukan terlebih dahulu sebelum memulai gambar?",
+    "options": ["Menggambar garis dasar", "Mengatur kertas", "Mengasah pensil", "Menggumam pensil"],
+    "answer": "Mengatur kertas"
+  },
+  {
+    "question": "Dalam bermain gitar, apa yang harus dilakukan terlebih dahulu setelah mengambil gitar?",
+    "options": ["Mengecek tuning", "Mencari kursus", "Menggeser jari", "Menyanyi"],
+    "answer": "Mengecek tuning"
+  },
+  {
+    "question": "Dalam bersepeda, gerakan apa yang harus dilakukan terlebih dahulu setelah menaikkan kaki ke pedal?",
+    "options": ["Mendorong pedal", "Mengayuh pedal", "Mengatur posisi duduk", "Menekan rem"],
+    "answer": "Mengayuh pedal"
+  },
+  {
+    "question": "Dalam menembak panah, apa yang harus dilakukan terlebih dahulu setelah mengambil busur?",
+    "options": ["Mengarahkan panah", "Mengencangkan tali busur", "Mengatur posisi tubuh", "Mengatur napas"],
+    "answer": "Mengencangkan tali busur"
+  },
+  {
+    "question": "Dalam menari, gerakan apa yang harus dilakukan terakhir sebelum mengakhiri penampilan?",
+    "options": ["Membuat gerakan akhir", "Mengakhiri dengan pose", "Melompat", "Berputar"],
+    "answer": "Mengakhiri dengan pose"
+  }
+]

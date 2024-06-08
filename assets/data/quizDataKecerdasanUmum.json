@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Siapakah ilmuwan yang merumuskan hukum gravitasi?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Charles Darwin"],
+    "answer": "Isaac Newton"
+  },
+  {
+    "question": "Berapakah hasil dari 5 x 8 + 12 ÷ 3?",
+    "options": ["19", "20", "21", "22"],
+    "answer": "21"
+  },
+  {
+    "question": "Apa nama ibu kota Indonesia?",
+    "options": ["Jakarta", "Bandung", "Surabaya", "Bogor"],
+    "answer": "Jakarta"
+  },
+  {
+    "question": "Siapakah penemu telepon?",
+    "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "Berapa jumlah planet dalam tata surya?",
+    "options": ["6", "7", "8", "9"],
+    "answer": "8"
+  },
+  {
+    "question": "Apa nama kimia untuk air?",
+    "options": ["Oksigen", "Karbondioksida", "Hidrogen", "Air"],
+    "answer": "Air"
+  },
+  {
+    "question": "Siapakah presiden pertama Amerika Serikat?",
+    "options": ["Thomas Jefferson", "George Washington", "Abraham Lincoln", "John F. Kennedy"],
+    "answer": "George Washington"
+  },
+  {
+    "question": "Berapa akar kuadrat dari 144?",
+    "options": ["10", "11", "12", "13"],
+    "answer": "12"
+  },
+  {
+    "question": "Apa nama tokoh fiksi yang terkenal sebagai pemburu arkeologi?",
+    "options": ["Indiana Jones", "Luke Skywalker", "James Bond", "Harry Potter"],
+    "answer": "Indiana Jones"
+  },
+  {
+    "question": "Siapakah penulis novel 'Pride and Prejudice'?",
+    "options": ["Emily Brontë", "Jane Austen", "Charlotte Brontë", "Charles Dickens"],
+    "answer": "Jane Austen"
+  },
+  {
+    "question": "Apakah nama kerajaan yang dijuluki sebagai 'Kerajaan Melayu Berunai'?",
+    "options": ["Kerajaan Majapahit", "Kerajaan Sriwijaya", "Kerajaan Mataram", "Kerajaan Pajajaran"],
+    "answer": "Kerajaan Sriwijaya"
+  },
+  {
+    "question": "Berapa hasil dari 3² + 4²?",
+    "options": ["9", "16", "25", "36"],
+    "answer": "25"
+  },
+  {
+    "question": "Apa nama presiden pertama Republik Indonesia?",
+    "options": ["Soekarno", "Soeharto", "Megawati Soekarnoputri", "Joko Widodo"],
+    "answer": "Soekarno"
+  },
+  {
+    "question": "Siapakah penulis novel 'To Kill a Mockingbird'?",
+    "options": ["F. Scott Fitzgerald", "Harper Lee", "Mark Twain", "Ernest Hemingway"],
+    "answer": "Harper Lee"
+  },
+  {
+    "question": "Berapa jumlah huruf dalam alfabet bahasa Inggris?",
+    "options": ["24", "25", "26", "27"],
+    "answer": "26"
+  },
+  {
+    "question": "Apa nama perusahaan teknologi yang didirikan oleh Steve Jobs, Steve Wozniak, dan Ronald Wayne?",
+    "options": ["Microsoft", "IBM", "Google", "Apple"],
+    "answer": "Apple"
+  },
+  {
+    "question": "Berapa banyak huruf 'A' dalam kata 'PACARAN'?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3"
+  },
+  {
+    "question": "Siapakah ilmuwan yang merumuskan teori relativitas?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Stephen Hawking"],
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "Berapa jumlah sisi pada sebuah kubus?",
+    "options": ["4", "6", "8", "12"],
+    "answer": "6"
+  },
+  {
+    "question": "Apa nama sungai terpanjang di dunia?",
+    "options": ["Sungai Amazon", "Sungai Nil", "Sungai Yangtze", "Sungai Mississippi"],
+    "answer": "Sungai Amazon"
+  }
+]

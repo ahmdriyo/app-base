@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Berapa hasil dari 5 + 8?",
+    "options": ["10", "11", "12", "13"],
+    "answer": "13"
+  },
+  {
+    "question": "Jika satu buku berharga 7.000 rupiah, berapa total biaya untuk membeli 5 buku yang sama?",
+    "options": ["30.000", "35.000", "40.000", "45.000"],
+    "answer": "35.000"
+  },
+  {
+    "question": "Jika sebuah segitiga memiliki panjang alas 6 cm dan tinggi 4 cm, berapakah luasnya?",
+    "options": ["12 cm^2", "18 cm^2", "20 cm^2", "24 cm^2"],
+    "answer": "12 cm^2"
+  },
+  {
+    "question": "Berapa hasil dari 15 - 7?",
+    "options": ["6", "7", "8", "9"],
+    "answer": "8"
+  },
+  {
+    "question": "Jika sebuah kotak memiliki panjang 10 cm, lebar 5 cm, dan tinggi 3 cm, berapa volume kotak tersebut?",
+    "options": ["100 cm^3", "125 cm^3", "150 cm^3", "175 cm^3"],
+    "answer": "150 cm^3"
+  },
+  {
+    "question": "Jika sebuah roda berputar 360 derajat, berapa derajat yang sudah berputar jika roda itu berputar 3/4 putaran?",
+    "options": ["180 derajat", "240 derajat", "270 derajat", "320 derajat"],
+    "answer": "270 derajat"
+  },
+  {
+    "question": "Jika sebuah lapangan memiliki panjang 50 meter dan lebar 30 meter, berapa luas totalnya?",
+    "options": ["1.500 meter persegi", "2.000 meter persegi", "2.500 meter persegi", "3.000 meter persegi"],
+    "answer": "1.500 meter persegi"
+  },
+  {
+    "question": "Jika sebuah kotak berisi 24 buah apel, berapa rata-rata apel per kotak jika dibagi menjadi 4 kotak?",
+    "options": ["4", "6", "8", "10"],
+    "answer": "6"
+  },
+  {
+    "question": "Berapa hasil dari 3 x 9?",
+    "options": ["24", "25", "26", "27"],
+    "answer": "27"
+  },
+  {
+    "question": "Jika satu kotak berisi 25 kelereng, berapa total kelereng dalam 8 kotak yang sama?",
+    "options": ["180", "200", "225", "250"],
+    "answer": "200"
+  },
+  {
+    "question": "Jika sebuah segitiga memiliki sisi yang panjangnya 6 cm, 8 cm, dan 10 cm, apakah segitiga tersebut segitiga siku-siku?",
+    "options": ["Ya", "Tidak"],
+    "answer": "Ya"
+  },
+  {
+    "question": "Berapa hasil dari 48 ÷ 6?",
+    "options": ["6", "7", "8", "9"],
+    "answer": "8"
+  },
+  {
+    "question": "Jika sebuah tabung memiliki jari-jari 4 cm dan tinggi 10 cm, berapa volume tabung tersebut?",
+    "options": ["80π cm^3", "100π cm^3", "120π cm^3", "140π cm^3"],
+    "answer": "160π cm^3"
+  },
+  {
+    "question": "Jika seorang petani memiliki 40 kg beras dan dia menjual setengahnya, berapa sisa beras yang dimiliki petani?",
+    "options": ["10 kg", "15 kg", "20 kg", "25 kg"],
+    "answer": "20 kg"
+  },
+  {
+    "question": "Jika sebuah jam menunjukkan pukul 3:45, berapa menit lagi sebelum jam menunjukkan pukul 4:00?",
+    "options": ["10 menit", "11 menit", "12 menit", "13 menit"],
+    "answer": "15 menit"
+  },
+  {
+    "question": "Jika sebuah segitiga memiliki panjang alas 9 cm dan tinggi 12 cm, berapakah luasnya?",
+    "options": ["72 cm^2", "81 cm^2", "90 cm^2", "108 cm^2"],
+    "answer": "54 cm^2"
+  },
+  {
+    "question": "Berapa hasil dari 4²?",
+    "options": ["12", "14", "16", "18"],
+    "answer": "16"
+  },
+  {
+    "question": "Jika sebuah ruangan memiliki panjang 8 meter, lebar 6 meter, dan tinggi 3 meter, berapa volume ruangan tersebut?",
+    "options": ["144 meter kubik", "168 meter kubik", "192 meter kubik", "216 meter kubik"],
+    "answer": "144 meter kubik"
+  },
+  {
+    "question": "Jika seorang penjual membeli 10 buah pensil dengan harga total 30.000 rupiah, berapa harga per pensil?",
+    "options": ["2.500 rupiah", "3.000 rupiah", "3.500 rupiah", "4.000 rupiah"],
+    "answer": "3.000 rupiah"
+  },
+  {
+    "question": "Jika sebuah segitiga sama sisi memiliki panjang sisi 6 cm, berapa panjang garis yang membagi segitiga menjadi dua segitiga sama kaki?",
+    "options": ["3√3 cm", "4√2 cm", "6√2 cm", "8√3 cm"],
+    "answer": "3√3 cm"
+  },
+  {
+    "question": "Jika sebuah toko sepatu memiliki penjualan sebesar $12,000 pada bulan Januari dan meningkat 25% pada bulan Februari, berapa total penjualan toko tersebut pada bulan Februari?",
+    "options": ["$13,500", "$14,500", "$15,000", "$16,000"],
+    "answer": "$15,000"
+  },
+  {
+    "question": "Jika sebuah pabrik memproduksi 240 unit produk per jam, berapa banyak produk yang dihasilkan dalam 8 jam?",
+    "options": ["160", "1,280", "1,920", "2,560"],
+    "answer": "1,920"
+  },
+  {
+    "question": "Sebuah mobil melaju dengan kecepatan 60 km/jam. Jika perjalanan yang direncanakan adalah sejauh 180 km, berapa lama waktu yang dibutuhkan mobil untuk menyelesaikan perjalanan tersebut?",
+    "options": ["2 jam", "3 jam", "4 jam", "5 jam"],
+    "answer": "3 jam"
+  },
+  {
+    "question": "Jika harga seorang karyawan adalah $20 per jam dan dia bekerja selama 45 jam dalam seminggu, berapa total pengeluaran perusahaan untuk membayar karyawan tersebut dalam seminggu?",
+    "options": ["$800", "$900", "$1,000", "$1,200"],
+    "answer": "$900"
+  },
+  {
+    "question": "Sebuah perusahaan menginvestasikan $25,000 dalam obligasi dengan bunga tahunan 6%. Berapa jumlah bunga yang diperoleh perusahaan setelah satu tahun?",
+    "options": ["$1,250", "$1,350", "$1,500", "$1,650"],
+    "answer": "$1,500"
+  },
+  {
+    "question": "Jika seorang pekerja melakukan pekerjaan dalam 5/8 waktu yang dijadwalkan, berapa persen pekerjaan yang telah diselesaikan?",
+    "options": ["25%", "37.5%", "62.5%", "75%"],
+    "answer": "62.5%"
+  },
+  {
+    "question": "Sebuah kolam renang memiliki panjang 25 meter, lebar 10 meter, dan kedalaman 2 meter. Berapa volume air yang diperlukan untuk mengisi kolam renang tersebut?",
+    "options": ["500 m\u00b3", "1,000 m\u00b3", "1,500 m\u00b3", "2,000 m\u00b3"],
+    "answer": "500 m\u00b3"
+  },
+  {
+    "question": "Jika harga sebuah produk adalah $75 setelah diskon 20%, berapa harga aslinya sebelum diskon?",
+    "options": ["$60", "$75", "$90", "$100"],
+    "answer": "$90"
+  },
+  {
+    "question": "Jika sebuah ruangan memiliki panjang 6 meter, lebar 4 meter, dan tinggi 3 meter, berapa jumlah luas permukaan ruangan tersebut?",
+    "options": ["72 m\u00b2", "84 m\u00b2", "96 m\u00b2", "108 m\u00b2"],
+    "answer": "108 m\u00b2"
+  },
+  {
+    "question": "Seorang pekerja menginvestasikan $5,000 pada tingkat bunga tahunan 8%. Berapa jumlah bunga yang diperolehnya setelah dua tahun?",
+    "options": ["$800", "$850", "$900", "$950"],
+    "answer": "$800"
+  },
+  {
+    "question": "Jika sebuah trek lintasan berbentuk segitiga sama sisi dengan panjang sisi 30 meter, berapa kelilingnya?",
+    "options": ["60 m", "90 m", "120 m", "150 m"],
+    "answer": "90 m"
+  },
+  {
+    "question": "Sebuah perusahaan merencanakan pengeluaran tahunan sebesar $250,000. Jika mereka telah menghabiskan 40% dari anggaran mereka pada bulan pertama, berapa jumlah sisa anggaran yang mereka miliki?",
+    "options": ["$100,000", "$125,000", "$150,000", "$175,000"],
+    "answer": "$150,000"
+  },
+  {
+    "question": "Jika sebuah telepon seluler mengalami diskon 15% dan harganya turun menjadi $255, berapa harga aslinya sebelum diskon?",
+    "options": ["$255", "$275", "$300", "$325"],
+    "answer": "$300"
+  },
+  {
+    "question": "Sebuah peternakan memiliki 100 ekor sapi. Jika 25% dari sapi tersebut dijual, berapa banyak sapi yang tersisa di peternakan?",
+    "options": ["25", "50", "75", "100"],
+    "answer": "75"
+  },
+  {
+    "question": "Jika sebuah trapesium memiliki panjang sisi sejajar 10 cm dan 6 cm, dengan tinggi 8 cm, berapa luasnya?",
+    "options": ["56 cm\u00b2", "64 cm\u00b2", "72 cm\u00b2", "80 cm\u00b2"],
+    "answer": "64 cm\u00b2"
+  },
+  {
+    "question": "Sebuah supermarket menjual susu seharga $4 per galon. Jika seorang pelanggan membeli 5 galon susu, berapa total biaya pembelian mereka?",
+    "options": ["$16", "$18", "$20", "$22"],
+    "answer": "$20"
+  },
+  {
+    "question": "Jika sebuah taman memiliki panjang 25 meter dan lebar 15 meter, dan 1 meter persegi tanah dijual seharga $10, berapa total pendapatan yang diperoleh dari penjualan tanah tersebut?",
+    "options": ["$2,000", "$2,250", "$2,500", "$2,750"],
+    "answer": "$2,500"
+  },
+  {
+    "question": "Seorang pedagang membeli 100 unit barang seharga $5 per unit dan menjualnya dengan harga $8 per unit. Berapa keuntungan bersih yang dia dapatkan?",
+    "options": ["$300", "$400", "$500", "$600"],
+    "answer": "$300"
+  },
+  {
+    "question": "Jika sebuah mobil melaju dengan kecepatan rata-rata 40 km/jam selama 2 jam, dan kemudian dengan kecepatan 60 km/jam selama 3 jam, berapa jarak total yang ditempuh mobil?",
+    "options": ["160 km", "200 km", "240 km", "280 km"],
+    "answer": "240 km"
+  },
+  {
+    "question": "Sebuah restoran memiliki 80 kursi dan melayani 4 pemesanan setiap meja. Jika setiap pemesanan rata-rata menghabiskan 2 jam, berapa jumlah pendapatan restoran dalam satu hari jika mereka membuka selama 8 jam?",
+    "options": ["$640", "$960", "$1,280", "$1,600"],
+    "answer": "$1,280"
+  }
+]

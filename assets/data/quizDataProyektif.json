@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Jika Anda melihat awan di langit, apa yang Anda lihat atau bayangkan?",
+    "options": ["Bentuk wajah atau hewan", "Rumah atau bangunan", "Angka atau huruf", "Garis-garis atau pola geometris"],
+    "answer": "Bentuk wajah atau hewan"
+  },
+  {
+    "question": "Jika Anda diberi gambar yang tidak beraturan, apa yang muncul di pikiran Anda saat melihatnya?",
+    "options": ["Situasi atau cerita", "Emosi atau perasaan", "Warna atau bentuk", "Orang-orangan atau tokoh"],
+    "answer": "Situasi atau cerita"
+  },
+  {
+    "question": "Jika Anda melihat bayangan di dinding, apa yang pertama kali Anda pikirkan?",
+    "options": ["Bayangan seram atau menakutkan", "Bayangan objek nyata", "Bayangan orang atau binatang", "Bayangan yang abstrak atau tidak jelas"],
+    "answer": "Bayangan objek nyata"
+  },
+  {
+    "question": "Jika Anda diminta untuk menggambarkan rumah impian Anda, apa yang akan Anda gambarkan?",
+    "options": ["Ruang dan dekorasi dalam rumah", "Lokasi dan pemandangan sekitar rumah", "Orang-orangan atau karakter di dalam rumah", "Garis-garis atau pola yang mewakili rumah"],
+    "answer": "Lokasi dan pemandangan sekitar rumah"
+  },
+  {
+    "question": "Jika Anda mendengar suara yang tidak biasa di malam hari, apa yang mungkin Anda bayangkan?",
+    "options": ["Suara hewan atau makhluk lainnya", "Suara angin atau cuaca", "Suara kendaraan atau mesin", "Suara yang tidak jelas atau abstrak"],
+    "answer": "Suara hewan atau makhluk lainnya"
+  },
+  {
+    "question": "Jika Anda diberikan blok mainan untuk disusun, bagaimana Anda akan menyusunnya?",
+    "options": ["Menyusunnya menjadi bentuk tertentu", "Menciptakan cerita dengan blok-blok tersebut", "Menggabungkan blok-blok berdasarkan warna atau ukuran", "Menggabungkan blok-blok secara acak"],
+    "answer": "Menciptakan cerita dengan blok-blok tersebut"
+  },
+  {
+    "question": "Jika Anda melihat foto seseorang yang tidak Anda kenal, apa yang muncul di pikiran Anda tentang orang tersebut?",
+    "options": ["Profesi atau pekerjaan mereka", "Perasaan atau emosi yang mereka ekspresikan", "Hubungan mereka dengan orang lain", "Tempat atau latar belakang foto"],
+    "answer": "Perasaan atau emosi yang mereka ekspresikan"
+  },
+  {
+    "question": "Jika Anda melihat catatan tertulis yang tertinggal di meja, apa yang Anda pikirkan tentang orang yang meninggalkannya?",
+    "options": ["Tujuan atau keinginan mereka", "Keadaan emosional atau psikologis mereka", "Hubungan mereka dengan orang lain", "Gaya atau preferensi mereka dalam menulis"],
+    "answer": "Keadaan emosional atau psikologis mereka"
+  },
+  {
+    "question": "Jika Anda melihat pemandangan alam yang indah, apa yang pertama kali Anda rasakan atau pikirkan?",
+    "options": ["Ketenangan atau kedamaian", "Kecantikan atau keindahan", "Petualangan atau eksplorasi", "Inspirasi atau motivasi"],
+    "answer": "Ketenangan atau kedamaian"
+  },
+  {
+    "question": "Jika Anda melihat benda-benda yang tersusun secara acak di luar ruangan, apa yang mungkin Anda pikirkan tentang susunan tersebut?",
+    "options": ["Maksud atau tujuan dibalik susunan tersebut", "Keterkaitan dengan alam atau lingkungan sekitar", "Emosi atau perasaan yang disampaikan oleh susunan tersebut", "Kecocokan atau ketidakcocokan benda-benda tersebut"],
+    "answer": "Maksud atau tujuan dibalik susunan tersebut"
+  },
+  {
+    "question": "Jika Anda diberi sebuah kata kunci, apa yang mungkin Anda pikirkan atau bayangkan?",
+    "options": ["Gambar atau imajinasi yang terkait dengan kata tersebut", "Pengalaman atau kenangan yang terkait dengan kata tersebut", "Hubungan antara kata tersebut dengan kata-kata lainnya", "Emosi atau perasaan yang muncul ketika mendengar kata tersebut"],
+    "answer": "Gambar atau imajinasi yang terkait dengan kata tersebut"
+  },
+  {
+    "question": "Jika Anda mendengar sebuah cerita, apa yang mungkin Anda bayangkan saat mendengarkannya?",
+    "options": ["Visualisasi dari cerita tersebut", "Emosi atau perasaan yang disampaikan dalam cerita", "Suasana atau latar belakang cerita", "Hubungan antara karakter-karakter dalam cerita"],
+    "answer": "Emosi atau perasaan yang disampaikan dalam cerita"
+  },
+  {
+    "question": "Jika Anda melihat sesuatu yang terlihat aneh atau tidak biasa, apa yang pertama kali Anda lakukan atau pikirkan?",
+    "options": ["Mencoba memahami maksud atau tujuan dibalik kejadian tersebut", "Mengamati reaksi atau tanggapan orang lain", "Menghubungkan kejadian tersebut dengan pengalaman pribadi", "Merencanakan tindakan atau respons terhadap kejadian tersebut"],
+    "answer": "Mencoba memahami maksud atau tujuan dibalik kejadian tersebut"
+  },
+  {
+    "question": "Jika Anda mendengarkan lagu, apa yang mungkin Anda pikirkan atau bayangkan saat mendengarkannya?",
+    "options": ["Pesan atau makna dari lirik lagu", "Suasana atau perasaan yang disampaikan oleh lagu", "Memori atau pengalaman terkait dengan lagu tersebut", "Hubungan antara lagu tersebut dengan kejadian dalam hidup"],
+    "answer": "Suasana atau perasaan yang disampaikan oleh lagu"
+  },
+  {
+    "question": "Jika Anda diberikan sebuah cermin, apa yang pertama kali Anda lakukan atau pikirkan saat melihat diri Anda?",
+    "options": ["Mengamati ekspresi atau sikap tubuh Anda", "Mengkritik atau menilai penampilan Anda", "Merasa puas atau tidak puas dengan penampilan Anda", "Mengidentifikasi kelemahan atau kelebihan dalam penampilan Anda"],
+    "answer": "Mengamati ekspresi atau sikap tubuh Anda"
+  },
+  {
+    "question": "Jika Anda melihat matahari terbenam di ufuk barat, apa yang mungkin Anda rasakan atau pikirkan saat melihatnya?",
+    "options": ["Keindahan atau keagungan alam", "Ketenangan atau kedamaian", "Inspirasi atau refleksi pribadi", "Hubungan dengan orang-orang yang Anda cintai"],
+    "answer": "Inspirasi atau refleksi pribadi"
+  },
+  {
+    "question": "Jika Anda berjalan-jalan di hutan yang gelap, apa yang mungkin Anda bayangkan atau rasakan saat berada di sana?",
+    "options": ["Rasa takut atau kecemasan", "Keheningan atau ketenangan alam", "Petualangan atau eksplorasi", "Hubungan dengan keberadaan makhluk gaib atau hal-hal supernatural"],
+    "answer": "Petualangan atau eksplorasi"
+  },
+  {
+    "question": "Jika Anda diberi sebuah teka-teki, apa yang mungkin Anda lakukan atau pikirkan saat mencoba memecahkannya?",
+    "options": ["Memikirkan strategi atau langkah-langkah solusi", "Menghubungkan teka-teki dengan pengalaman sebelumnya", "Mencari pola atau keteraturan dalam teka-teki", "Merasa frustrasi atau tertantang dengan teka-teki tersebut"],
+    "answer": "Memikirkan strategi atau langkah-langkah solusi"
+  },
+  {
+    "question": "Jika Anda diminta untuk menggambar sesuatu secara spontan, apa yang mungkin akan Anda gambarkan?",
+    "options": ["Pengalaman atau emosi saat itu", "Objek atau orang yang terlihat di sekitar", "Imajinasi atau fantasi", "Garis-garis atau pola yang mewakili pikiran Anda saat itu"],
+    "answer": "Pengalaman atau emosi saat itu"
+  },
+  {
+    "question": "Dalam situasi yang membuat Anda merasa sangat frustasi, bagaimana Anda bereaksi?",
+    "options": [
+      "Mengungkapkan frustrasi secara terbuka",
+      "Menahan emosi dan mencari solusi",
+      "Menghindari situasi tersebut",
+      "Mencari dukungan dari orang lain"
+    ],
+    "answer": "Menahan emosi dan mencari solusi"
+  },
+  {
+    "question": "Jika Anda mendapat kekuatan super, bagaimana Anda akan menggunakannya?",
+    "options": [
+      "Untuk memperoleh kekayaan dan kekuasaan",
+      "Untuk membantu orang lain dan memperbaiki dunia",
+      "Untuk kepentingan pribadi",
+      "Untuk mempertahankan diri dari ancaman"
+    ],
+    "answer": "Untuk membantu orang lain dan memperbaiki dunia"
+  },
+  {
+    "question": "Jika Anda menjadi karakter fiksi dalam sebuah novel, peran apa yang akan Anda pilih?",
+    "options": [
+      "Pahlawan yang selalu menang",
+      "Penjahat yang memikat",
+      "Karakter sampingan yang lucu",
+      "Tokoh utama yang menghadapi cobaan besar"
+    ],
+    "answer": "Tokoh utama yang menghadapi cobaan besar"
+  },
+  {
+    "question": "Bagaimana Anda akan bereaksi jika Anda menemukan diri Anda di tengah hutan belantara tanpa arah?",
+    "options": [
+      "Panik dan putus asa",
+      "Mencoba untuk menemukan jalan keluar dengan tenang",
+      "Menunggu bantuan dari luar",
+      "Mengembara tanpa tujuan tertentu"
+    ],
+    "answer": "Mencoba untuk menemukan jalan keluar dengan tenang"
+  },
+  {
+    "question": "Jika Anda memiliki kemampuan untuk mengubah satu hal dalam hidup Anda, apa yang akan Anda ubah?",
+    "options": [
+      "Lingkungan sosial",
+      "Kondisi finansial",
+      "Kesehatan fisik",
+      "Pilihan karir"
+    ],
+    "answer": "Lingkungan sosial"
+  },
+  {
+    "question": "Bagaimana Anda akan merespon jika Anda menemukan sebuah pintu ke dunia paralel?",
+    "options": [
+      "Menghindari pintu tersebut",
+      "Memasuki dunia paralel dengan rasa penasaran",
+      "Mencoba memahami fenomena tersebut secara ilmiah",
+      "Mengabaikan temuan tersebut dan melanjutkan hidup seperti biasa"
+    ],
+    "answer": "Memasuki dunia paralel dengan rasa penasaran"
+  },
+  {
+    "question": "Jika Anda diberi kesempatan untuk bertemu dengan tokoh sejarah terkenal, siapa yang akan Anda pilih?",
+    "options": [
+      "Tokoh politik atau pemimpin agama",
+      "Tokoh budayawan atau seniman",
+      "Tokoh ilmuwan atau penemu",
+      "Tokoh pejuang atau pahlawan"
+    ],
+    "answer": "Tokoh pejuang atau pahlawan"
+  },
+  {
+    "question": "Jika Anda berada di bawah tekanan besar, bagaimana Anda meresponsnya?",
+    "options": [
+      "Menjadi mudah marah dan stres",
+      "Menahan tekanan dan mencari solusi",
+      "Menarik diri dan mencari dukungan",
+      "Melakukan hal-hal impulsif untuk meredakan tekanan"
+    ],
+    "answer": "Menahan tekanan dan mencari solusi"
+  },
+  {
+    "question": "Jika Anda bisa menjadi satu-satunya manusia di Mars, bagaimana Anda akan menghabiskan waktumu?",
+    "options": [
+      "Membuat rencana penyelamatan untuk kembali ke Bumi",
+      "Menjelajahi permukaan Mars dan mencari tanda-tanda kehidupan",
+      "Menyesuaikan diri dengan lingkungan baru dan membangun kehidupan di sana",
+      "Menghabiskan waktu dengan merenung dan menyesali nasib"
+    ],
+    "answer": "Menyesuaikan diri dengan lingkungan baru dan membangun kehidupan di sana"
+  },
+  {
+    "question": "Jika Anda diberi kesempatan untuk menyelesaikan masalah global, masalah apa yang akan Anda pilih?",
+    "options": [
+      "Perubahan iklim",
+      "Kelaparan dan kemiskinan",
+      "Konflik dan kekerasan",
+      "Kesehatan dan kesejahteraan"
+    ],
+    "answer": "Kelaparan dan kemiskinan"
+  },
+  {
+    "question": "Bagaimana Anda akan menghadapi situasi di mana Anda harus berbicara di depan umum?",
+    "options": [
+      "Merasa gelisah dan cemas",
+      "Menyiapkan diri dengan baik dan percaya diri",
+      "Menghindari kesempatan untuk berbicara di depan umum",
+      "Mengandalkan materi yang sudah disiapkan tanpa improvisasi"
+    ],
+    "answer": "Menyiapkan diri dengan baik dan percaya diri"
+  },
+  {
+    "question": "Jika Anda memiliki kekuatan untuk mempengaruhi pikiran orang lain, bagaimana Anda akan menggunakannya?",
+    "options": [
+      "Untuk kepentingan pribadi dan keuntungan",
+      "Untuk membantu orang lain mencapai potensi terbaik mereka",
+      "Untuk mengubah pandangan mereka sesuai kehendak Anda",
+      "Untuk menyelesaikan konflik dan menciptakan harmoni sosial"
+    ],
+    "answer": "Untuk membantu orang lain mencapai potensi terbaik mereka"
+  },
+  {
+    "question": "Jika Anda dapat mengalihkan kemampuan Anda ke dalam sebuah benda mati, apa yang akan Anda pilih?",
+    "options": [
+      "Benda yang memberikan kekuatan dan kekayaan",
+      "Benda yang memberikan kedamaian dan kenyamanan",
+      "Benda yang memberikan pengetahuan dan pemahaman",
+      "Benda yang memberikan keindahan dan inspirasi"
+    ],
+    "answer": "Benda yang memberikan keindahan dan inspirasi"
+  },
+  {
+    "question": "Bagaimana Anda akan menghadapi kehilangan yang mendalam dalam hidup Anda?",
+    "options": [
+      "Meratapi kehilangan dan menghindari kenyataan",
+      "Menerima kehilangan dan mencari hikmah di baliknya",
+      "Mencari pengganti dan mengalihkan perhatian",
+      "Menyalahkan diri sendiri atau orang lain atas kehilangan tersebut"
+    ],
+    "answer": "Menerima kehilangan dan mencari hikmah di baliknya"
+  },
+  {
+    "question": "Jika Anda diberi kesempatan untuk menjadi karakter dalam sebuah film, peran apa yang akan Anda pilih?",
+    "options": [
+      "Pahlawan yang mengalahkan musuh-musuhnya",
+      "Antagonis yang menarik perhatian",
+      "Karakter pendukung yang memberikan dukungan moral",
+      "Antihero yang memiliki konflik batin yang dalam"
+    ],
+    "answer": "Antihero yang memiliki konflik batin yang dalam"
+  },
+  {
+    "question": "Bagaimana Anda akan bertindak jika Anda menemukan diri Anda dalam situasi yang membutuhkan pengambilan keputusan sulit?",
+    "options": [
+      "Membuat keputusan tanpa ragu-ragu",
+      "Membuat daftar pro dan kontra untuk mengevaluasi opsi",
+      "Menyerahkan keputusan kepada orang lain",
+      "Tidak membuat keputusan dan menghindari tanggung jawab"
+    ],
+    "answer": "Membuat daftar pro dan kontra untuk mengevaluasi opsi"
+  },
+  {
+    "question": "Jika Anda memiliki kemampuan untuk berbicara dengan hewan, hewan apa yang akan Anda pilih?",
+    "options": [
+      "Hewan peliharaan yang memiliki ikatan emosional dengan Anda",
+      "Hewan yang memiliki kebijaksanaan alamiah",
+      "Hewan yang memiliki keunikan dalam perilaku atau sifatnya",
+      "Hewan yang dianggap sakral atau memiliki makna spiritual"
+    ],
+    "answer": "Hewan yang memiliki kebijaksanaan alamiah"
+  },
+  {
+    "question": "Bagaimana Anda akan merespon jika Anda menemukan diri Anda di tengah-tengah bencana alam?",
+    "options": [
+      "Panik dan bertindak impulsif",
+      "Menjalankan rencana darurat dan membantu orang lain",
+      "Menunggu bantuan dari pihak berwenang",
+      "Mengabaikan situasi dan mencoba bertahan sejauh mungkin"
+    ],
+    "answer": "Menjalankan rencana darurat dan membantu orang lain"
+  }
+]
